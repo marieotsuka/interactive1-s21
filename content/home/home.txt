@@ -1,0 +1,176 @@
+Title: Home
+
+----
+
+Links: 
+* [Class Zoom](https://cca.zoom.us/j/98740941985)
+
+----
+
+Intro: 
+
+This class introduces students to HTML and CSS, the building blocks of websites. Through hands-on demos and incremental assignments, students gain the technical knowledge needed to interpret and structure web pages. Assignments explore the creative potential of basic code, from visual composition to typography to interactivity.
+
+----
+
+More:
+
+We will celebrate the Internet as a space for social and creative exchange as well as medium for independent expression. In particular, we will consider the browser as a tool of creative expression, in contrast to how it is often presented as a means of pragmatic exchange and consumption.
+
+Through projects, readings, workshops, and presentations we will explore the relevance of network technologies in the context of contemporary art and graphic design practices. 
+
+Students will learn basic HTML, CSS, and JS programming along with methods for conceptualizing, designing, and developing websites. Outcomes won't necessary be practical, nor pragmatically functional. Instead we will strive for a poetic understanding of design and the Internet as mediums for critical research and discourse.
+
+## Learning Outcomes
+* Develop a theoretical knowledge, technical understanding, and historical basis of the internet and design online
+* Develop technical skills (HTML, CSS, and JS) to produce functioning websites
+* Stimulate critical positions around design principles within networked technologies 
+* Analyze current digital aesthetics and their historical context
+* Understand the social and cultural implications of information flows online
+* Explore the Internet as a space that is public and private, and the corporate and political tensions embedded in such condition
+* Gain insight into the contemporary landscape of Internet-based art and design practices
+* Activate the browser as a form making tool
+
+
+## Material Requirements
+* Personal Laptop
+* (link: https://www.sublimetext.com/ text: Sublime Text popup: yes) for editing and updating code
+* (link: https://desktop.github.com/ text: Github Desktop Client popup: yes) for uploading our websites
+* (link: http://figma.com text: Figma popup: yes) for image/media generating, editing, and prototyping 
+* (link: https://slack.com/ text: Slack popup: yes) for class communications
+* (link: https://glitch.com/ text: Glitch popup: yes) for online coding
+* (link: https://zoom.us/ text: Zoom popup: yes) for video calls
+* Phone, digital camera, scanner, screen capture etc.
+
+
+## Readings
+* There will be routine readings with discussions taking place on Moodle/Slack. All students will be required to pose one question and respond to another students question about each reading.
+
+
+## Class Activities
+Clases will be in a primarily asynchronous model. This means most activities will take place at your own schedule, conforming to certain deadlines. The following activities will take place online via a number of platforms:
+
+* Reading discussion
+* Topic lecture/discussion
+* Project critique/discussion
+* Group activity
+* Workshops
+* Personal working time
+* One-on-one meetings
+
+
+## Weekly Schedule
+
+For final and group crits, we will meet as a group on Zoom.
+
+*Wednesday*
+Before class the week’s assignments will be due (unless otherwise stated), and turned in via: 
+* Slack for files such as PDFs
+* Via upload to your class website with links posted to Slack
+* Reading responses posted in their dedicated channel (the instructor will create the channel each week)
+
+Similarly, the instructor will post an overview for the next week to the class website and Slack before each class session.
+
+
+## Grading
+* 60% ... Projects
+* 25% ... Workshops / Weekly Exercises
+* 15% ... Reading Presentation and Participation (reading responses, class discussion, critique, etc.)
+
+Letter grades represent the following:
+
+A = excellent;
+B = good;
+C = satisfactory;
+D = unsatisfactory;
+F = failure.
+
+A grade of C- or less is considered a failing grade for required courses within the major, and you will need to retake this course if you achieve a grade lower than a C.
+
+
+## Attendance
+Students are expected to engage with the instructor and their classmates weekly. Most of these meetings are asynchronous, but are critical to the success of the class. If you have trouble participating in 'in-person' check-ins, please let the instructor know ahead of time (at least 24 hours). 
+
+Work missed due to any type of absence is the student’s responsibility. Three or more absences will result in a failing grade. One absence is equivalent to missing the equivalent of one week's activities (scheduled check-ins, failure to participate in peer check-in, and not participating online).
+
+
+## Plagiarism
+Students are expected to generate their own work. At the same time the nature of the web is inherently build on sharing knowledge and resources, and building upon others work – as such we will get familiar with using pre-existing code, language, and imagery as materials we shape into our own unique projects. We will learn how to appropriate mindfully, and credit work properly.
+
+
+## Code
+Remixing existing code is often an important part of learning, but any code you take from an online resource needs to be commented with the source location where it appears in your project. For example:
+
+``` 
+For HTML
+
+<!-- source: http://cool.biz/cool_code -->
+<div id="coolThing">
+does a cool thing.
+<div id="helpsDoACoolThing">
+</div>
+</div>
+
+or for CSS
+
+/* source: http://cool.biz/cool_code */
+#doesACoolThing {
+cool: thing;
+}
+
+or for Javascript
+
+// source: http://cool.biz/cool_code
+function doACoolThing(){
+does a cool thing.
+}
+``` 
+
+Further, when using found code make sure that your use of it is appropriate to your project, and outside code should not dictate the design of your projects as experienced by the user. If the function or style of your site is identical to your source, that is likely a problem. Any snippets of code on the (link: /resources text: resources page popup: no) are free to use. If you are unsure if your reuse of code is appropriate, ask!
+
+## Design
+You may not use graphics, images, video, audio, or any other design elements that you did not create yourself, or that are obvious recreations of others work, under the pretense that they are your work. With the possible exemption of: 
+
+* Graphics such as a Facebook or Twitter icon in reference to those sites, etc, and that only in accordance with those organizations guidelines for such an elements use. In such cases those graphics should be a minor element in your design. 
+
+* If an assignment requires you to display found imagery and it is properly attributed 
+* Use of imagery in the (link: https://creativecommons.org/ text: Creative Commons popup: yes) that is cited and used based on its license
+
+If you are unsure if the use of a design element is appropriate, ask!
+
+
+## Writing
+Unless stipulated by an assignment, or approved by the instructor, all written content should be written by you. If it is approved by the instructor, make sure to cite the text appropriately.
+
+
+## Submitting your work and Class Archive
+Any exercise or project that you submit for grading must be uploaded to your class website before each class. Even if you are done with your work on your local computer, it will be considered late work if it is not visible on your class website.
+
+If a project is not uploaded on time, it will be docked one letter grade per class meeting that it is late. You can resubmit your work at the end of the semester with revisions to be regraded.
+
+
+
+Remember:
+* When creating the archive, make sure your assets are optimized for web so that the file sizes are as small as possible
+* Make sure every link on your class homepage is working.
+
+
+## Credits
+This course was developed in collaboration with Chris Hamamoto. It is influenced by curriculums developed by Will Ruby, Federico Pérez Villoro, Mindy Seu, Clement Valla, Minkyoung Kim, and Laurel Schwulst, and past versions of Interactive 1 at CCA.
+
+This website runs on (link: https://getkirby.com/ text: Kirby popup: yes) and was adapted from a site developed by Laurel Schwulst. 
+
+----
+
+People:
+
+* Leo Cantu
+* Steven Degalan
+* Patricia Granados
+* Rosie Linares Díaz
+* Krishnaa Nair
+* Owen Newman
+* Tiya Pertiwi
+* Divtesh Singh Pannu
+* Jasmine Wong
+* Josh Yule

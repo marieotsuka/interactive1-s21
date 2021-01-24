@@ -1,0 +1,37 @@
+Title: Computed Type
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: Christoph
+
+----
+
+Author-last: Knoth
+
+----
+
+Year: 2012
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link to video: (link: https://vimeo.com/60651938 popup: yes)
+
+----
+
+Further-metadata: 
+
+----
+
+Text: (image: computedtype.png)
+
+----
+
+Selected-image: 

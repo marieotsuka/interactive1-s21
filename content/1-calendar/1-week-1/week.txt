@@ -1,0 +1,45 @@
+Title: Week 1
+
+----
+
+Order: 1
+
+----
+
+Topic: Welcome to the Web
+
+----
+
+Dates: 1/25
+
+----
+
+Doc: https://docs.google.com/document/d/1J17XXpYolZRI-pYanXMx45Zj1_8wxCnI5b5Y6fPT-CI/edit?usp=sharing
+
+----
+
+Text: 
+
+## In-Class
+* Introductions and Class overview
+* Sign up for Slack, Figma, etc.
+* Exercise (link: exercises/class-site text: Class Websites)
+* Lecture: Modular Letterform Inspiration
+* Kickoff (link: projects/css-typeface text: P1 – CSS Typeface)
+
+## For Next Week
+* Join the class Slack
+* Exercise (link: # text: Excel Typeface)
+* Using Figma template design 2 versions of 5 characters (a word) of a modular typeface
+* Review Lectures: Intro to the Web, HTML Basics pt. 1, The Chrome Inspector
+* Codecademy: HTML
+
+
+##Read
+* (link: library/poetry_of_tools text: ...)
+* (link: library/poetry_of_tools text: The Poetry of Tools, Mindy Seu)
+
+
+----
+
+Current: 0

@@ -1,0 +1,13 @@
+Title: Interactive 1
+
+----
+
+Author: chris hamamoto
+
+----
+
+Description: class site for interactive 1, spring 2017
+
+----
+
+Copyright: ©(date: Year) 🖖

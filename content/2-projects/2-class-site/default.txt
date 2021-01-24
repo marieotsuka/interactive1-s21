@@ -1,0 +1,98 @@
+Title: Class Website
+
+----
+
+Project: 0
+
+----
+
+Text: 
+
+To get started with HTML, CSS, and designing for the web, we'll create class websites that we'll use throughout the semester. To host these we'll use Github pages, a free service from Github that helps simplify moving code online, and makes it accessible via the world wid web. Github is a version control system that stores and manages a "repository" of code that can be downloaded, edited, and reuploaded to Github. This enables collaboration and code backups (which are helpful in case something gets lost or a bug gets introduced). 
+
+First, we'll get prepared to create and upload our class site.
+
+1. Download these programs onto your computer:
+    1. [Sublime Text](https://www.sublimetext.com/)
+    2. [Github](https://central.github.com/deployments/desktop/desktop/latest/darwin) (Mac) or [Github](https://central.github.com/deployments/desktop/desktop/latest/win32) (Windows)
+
+Set up our Github account and create a repository to host our files online.
+
+1. Go to [github.com](https://github.com/) and create an account (make sure to verify your account).
+2. Once you are logged in click on the green button in the lefthand column that says "Create repository".
+3. Name your repository “interactive1”. This repository will be the home for all of your web-based projects for Interactive 1 this Spring 2021 semester. 
+4. Click the green "Create repository" button 
+
+Initiate Github Pages, github's webhosting feature, for the repository we just created.
+
+1. On your "Interactive1" repository page click on the Settings tab and scroll down to the GitHub Pages section. 
+2. Under "Source" select the "master" branch and click on the "Save" button.
+
+Now that our repository and webpage are setup, we will create a link from Github to our personal computers.
+
+1. Open the GitHub Desktop application and login with your GitHub credentials
+2. Go to the File menu and click clone repository"
+3. Select the "interactive1" repository
+4. Change the "Local Path"  and select a place on your computer where you want the “local” version of your projects to live. I would recommend placing the folder on your desktop (note: this is not where you will store any design files – only your code. I'd suggest to put it in a separate place from your other class files). 
+5. Press the “Clone” button.
+
+Everything is in place to create our first website, we just need to create an `index.html` file that will act as the "index" of our website.
+
+1. Open up Sublime Text and create a new file. 
+    1. Download this [starter kit]().
+    2. Open the "index.html" file and replace the content between the <title></title> (in the <head> part of the document) with your name. 
+    3. Save the “index.html” and “assets” folder within the local folder you specified in the last step. (Do not save the entire template folder. Only pull in the contents of the folder). This will become your class homepage, so you can do whatever you want here. You can always come back to edit it later.
+2. Go back to your Github application. You’ll see some empty input fields, one that says “Summary” and the other that says “Description”. 
+    1. In the summary, summarize what you just did. You might say something like “initial commit” or “hello world”. 
+    2. If you want to say more, type it in description, but this is optional.
+    3. Then press the “Commit to master” button.
+3. In the upper right hand corner of the application, press the “Publish” button. Github will ask you to log in if you aren’t already logged in. (Once you press the “Publish” button, it will change to “Fetch Origin".)
+
+If we've done everything correctly, our webpage should be accessible on the web. Navigate to *https://[username].github.io/Interactive1/* and it’s live! This will be your class homepage.
+
+From now on, whenever you want to update your page, first do it to your local version. Your local version is saved on your personal computer. Then, when you want to push it “live” (to the online version), open up your Github application. Make sure that the "master" branch is selected from the dropdown (this is very important!) and press “Commit”. Then press “Sync” in the upper right hand corner.
+
+
+***
+
+**Local vs. Online**
+
+You will become familiar with having two versions of your site: 
+
+*Local*
+This version is located on your personal computer, and therefore only you can view this version. When you open it in a web browser, you will see that the address bar starts with “file:// …”  
+
+
+*Online*
+This version is located on the internet, and therefore anyone online can view this version. When you open it in a web browser, you will see that the address bar starts with “http:// …”
+
+When working on a project, you will create things first on your local version. This allows you to properly experiment and test them before “deploying” onto your online version.
+
+
+***
+
+Spend some time updating your class site to personalize it. HTML uses its own syntax, and you'll be most effective by updating the text between "tags" (the code between two sets of pointy brackets `<div>edit here</div>` within the `<body></body>` tags. However, don't let that deter you from experimentation (you may end up breaking your site, but it can be easily fixed!). We'll be learning about the meaning of each tag shortly, but in the short term try using the `<pre>` tag to experiment with ASCII art.
+
+```
+<pre>
+  /-_-\
+ /  /  \
+/  /    \
+\  \    /
+ \__\__/
+    \\
+    -\\    ____
+      \\  /   /
+____   \\/___/
+\   \ -//
+ \___\//-
+    -//
+     \\
+     //
+    //-
+  -//
+  //
+  \\
+   \\
+</pre>
+```
