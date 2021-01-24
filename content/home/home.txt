@@ -3,7 +3,9 @@ Title: Home
 ----
 
 Links: 
-* [Class Zoom](https://cca.zoom.us/j/98740941985)
+* [Class Zoom](https://cca.zoom.us/meeting/tJIudeCgqzMsGNFGVuVYxuKVyPAqt2uzx3sQ/)
+
+* [Office Hours](https://cca.zoom.us/j/4950146744)
 
 ----
 
@@ -158,7 +160,7 @@ Remember:
 ## Credits
 This course was developed in collaboration with Chris Hamamoto. It is influenced by curriculums developed by Will Ruby, Federico Pérez Villoro, Mindy Seu, Clement Valla, Minkyoung Kim, and Laurel Schwulst, and past versions of Interactive 1 at CCA.
 
-This website runs on (link: https://getkirby.com/ text: Kirby popup: yes) and was adapted from a site developed by Laurel Schwulst. 
+This website runs on (link: https://getkirby.com/ text: Kirby popup: yes) and uses a theme adapted by Chris Hamamoto from a site originally developed by Laurel Schwulst.
 
 ----
 
