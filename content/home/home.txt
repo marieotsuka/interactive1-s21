@@ -3,9 +3,7 @@ Title: Home
 ----
 
 Links: 
-* [Class Zoom](https://cca.zoom.us/meeting/tJIudeCgqzMsGNFGVuVYxuKVyPAqt2uzx3sQ/)
-
-* [Office Hours](https://cca.zoom.us/j/4950146744)
+* [Class Zoom](https://cca.zoom.us/j/96329858625)
 
 ----
 
@@ -145,16 +143,14 @@ If you are unsure if the use of a design element is appropriate, ask!
 Unless stipulated by an assignment, or approved by the instructor, all written content should be written by you. If it is approved by the instructor, make sure to cite the text appropriately.
 
 
-## Submitting your work and Class Archive
+## Submitting your work
 Any exercise or project that you submit for grading must be uploaded to your class website before each class. Even if you are done with your work on your local computer, it will be considered late work if it is not visible on your class website.
 
 If a project is not uploaded on time, it will be docked one letter grade per class meeting that it is late. You can resubmit your work at the end of the semester with revisions to be regraded.
 
-
-
 Remember:
-* When creating the archive, make sure your assets are optimized for web so that the file sizes are as small as possible
-* Make sure every link on your class homepage is working.
+* When uploading materials to the web, make sure your assets are optimized for web so that the file sizes are as small as possible.
+* Double-check that all links on your site works.
 
 
 ## Credits

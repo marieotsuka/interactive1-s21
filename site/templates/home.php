@@ -11,7 +11,7 @@
 
 		<div class="syllabus">
 			<h1 id="title">Interactive 1</h1>
-			<div class="people">
+			<div class="links">
 				<?= $page->links()->kirbytext() ?>
 			</div>
 			<?= $page->intro()->kirbytext() ?>
@@ -22,7 +22,7 @@
 			</div>
 		</div>
 
-		<div class="people">
+		<div class="links people">
 			<h3>People</h3>
 			<?= $page->people()->kirbytext() ?>
 		</div>

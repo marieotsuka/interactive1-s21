@@ -17,17 +17,20 @@ footer, header, main, menu, nav, section, summary {
 }
 
 ::-moz-selection {
-  background: #71efac;
+  background: var(--highlight-color-light);
   color: #261e66;
 }
 
 ::selection {
-  background: #71efac;
+  background: var(--highlight-color-light);
   color: #261e66;
 }
 
 /* -----  Basics  ---------------------------------------- */
-
+html{
+  --highlight-color: #00b16f;
+  --highlight-color-light: #84fead;
+}
 html, #menu {
   font-size: 15px;  
 }
@@ -44,11 +47,11 @@ html, #menu {
 a, .show-more {
   color: black;
   text-decoration: underline;
-  text-decoration-color: red;
+  text-decoration-color: var(--highlight-color);
 }
 
 a:hover, .show-more:hover {
-  color: red;
+  color: var(--highlight-color);
   border-bottom: none;
   background-color: transparent;
 }
@@ -189,23 +192,32 @@ ul#menu li, .Resources ul li, ul.library li {
   padding-left: 0px;
 }
 
-.people li, .exercises li {
+.links ul{
+  margin: 20px 0;
+}
+.links li, .exercises li {
   display: inline-block;
   list-style-type: none;
+  padding-left: 0;
+  margin: 0 10px 10px 0;
+}
+
+.links li::before {
+  display: none;
+}
+
+
+.links li a, .people li, .exercises li a{
+  text-decoration: none;
   border: 1px solid #222;
   border-radius: 20px;
   padding: 10px 14px;
 }
 
-.people li:hover, .people li:hover, .exercises li:hover {
-  background: pink;
+.links li a:hover, .people li:hover{
+  background: var(--highlight-color-light);
+  color: black;
 }
-
-.people li a, .exercises li a{
-  text-decoration: none;
-  border: none;
-}
-
 
 hr {
   border: 1px dashed #888;
@@ -217,7 +229,6 @@ hr {
 }
 
 /* -----  Navigation  ---------------------------------------- */
-
 .header {
   margin: 20px 0px;
   width: 100%;
@@ -256,7 +267,7 @@ ul#menu {
 }
 
 #menu li a:hover {
-  color: red;
+  color: var(--highlight-color);
   text-decoration: none;
 }
 
@@ -268,7 +279,7 @@ ul#menu {
 .Resources a#resourceslink,
 .Library a#librarylink
 {
-   color: red;
+   color: var(--highlight-color);
    text-decoration: none;
 }
 
@@ -340,21 +351,6 @@ pre {
   display: none;
 }
 
-.links ul, .people ul {
-  margin: 20px 0px;
-}
-
-.links li, .people li {
-  display: inline-block;
-  border: 1px solid black;
-  border-radius: 20px;
-  padding: 10px;
-  margin: 2px;
-}
-
-.links li a, .people li a{
-  text-decoration: none;
-}
 
 
 /* -----  Calendar  ---------------------------------------- */
@@ -414,7 +410,7 @@ ul.calendar li ul {
 }
 
 .calendar-row:hover .title, .calendar-row:hover .days { 
-  color: red;
+  color: var(--highlight-color);
   cursor: pointer; 
 }
 
@@ -440,13 +436,6 @@ ul.exercises {
   margin: 0px;
 }
 
-ul.exercises li {
-  display: inline-block;
-  border: 1px solid black;
-  border-radius: 20px;
-  padding: 10px;
-  margin: 2px;
-}
 
 .exercises li a {
   text-decoration: none;
@@ -457,7 +446,6 @@ ul.exercises li {
 blockquote {
   padding-left: 40px;
 }
-
 
 
 
@@ -494,9 +482,6 @@ li.library-row span.title, li.library-row div {
   vertical-align: top;
 }
 
-li.library-row span.title{
-  
-}
 
 li.library-row div {
   text-align: right;
