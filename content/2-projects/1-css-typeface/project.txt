@@ -30,19 +30,19 @@ When it is time to create the website to display your typeface, consider its sub
 
 ###Requirements
 
-* 2 modular characters, each 300px by 500px in size, and on their own webpage (linking to the next letter in the alphabet)
-* 2+ visual ‘states’ that your characters exists within 
+* Create a typeface using only HTML and CSS. It should have a complete character set and at minimum 2 visual 'states'.
++ Once you've designed and built your typeface, create a website to display your complete typeface.
 
 ###Project
 
 **Project Kickoff: Weds Jan 27**
-Spreadsheet typeface exercise
+Parametric design and modular type discussion
 
 **Step 1: Due Weds Feb 3**
-Based on your experience with the spreadsheet typeface, and the provided examples, create two unique directions for each of your characters in graphics software (Figma is recommended). This means 4 designs total. Each character can reuse a concept, or have a totally unique design.
+To get started, complete the [Collective Alphabet Exercise](/projects/collective-alphabet) which will act as inspiration for the project. Based on this exercise create two unique _modular_ directions for each of your "Collective Alphabet" characters in graphics in a new Figma file. This means 4 designs total. Each character can reuse a concept, or have a totally unique design.
 
 **Step 2: Due Weds Feb 10**
-Based on feedback of your three sketches, select one direction for your complete typeface. Complete your typeface drawing in Figma as much as possible. Here are the characters I would like you to have:
+Based on feedback of your two directions, select one for your typeface. Complete your typeface drawing in Figma as much as possible. Here are the characters I would like you to have:
 
 either: abcdefghijklmnopqrstuvwxyz
 or: ABCDEFGHIJKLMNOPQRSTUVWXYZ

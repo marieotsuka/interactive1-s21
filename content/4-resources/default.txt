@@ -5,39 +5,42 @@ Title: Resources
 Text: 
 
 
-###Lectures
-* (link: https://docs.google.com/presentation/d/1R80EQyiVaxaL5MuY7Gn5Gt5FFYQu3XrYhuJ-NSoyf10/edit?usp=sharing text: Intro 2 WWW popup: yes)
+##Lectures
+* [Intro to HTML](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=643a5146-73f7-4293-b6c2-acba00429e30)
+* [Intro 2 WWW](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=242387eb-ab8e-43b6-88c2-acba002ab61c)
 
-###Troubleshooting
+##Demos
+* [The Chrome Inspector](#)
+
+
+##Troubleshooting
 Try to be patient when writing code, so much of programming is debugging – typos are one of the most common errors! If you find yourself stuck, try breaking your issue down into smaller, more manageable parts. 
 
 Search Google or (link: http://stackoverflow.com/ text: Stack Overflow popup: yes) for how to solve those parts, one at a time. While frustrating, these bugs will may lead yout o discover something new you would not have considered before! 
 
-###Downloads
+##Downloads
 * To edit code, download (link: http://www.sublimetext.com text: Sublime Text popup: yes).
 * For Browsing the web and viewing our pages, use (link:https://www.google.com/chrome/ text: Google Chrome) (we'll use Chrome exclusively because of its devtools).
 
-###Online Tools
+##Online Tools
 * (link: http://figma.com text: Figma popup: yes) for image/media generating, editing, and prototyping 
 * (link: https://slack.com/ text: Slack popup: yes) for class communications
 * (link: https://glitch.com/ text: Glitch popup: yes) for online coding
 * (link: https://zoom.us/ text: Zoom popup: yes) for video calls
 
-###Debugging
+##Debugging
 * (link: https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2018Q2 text: Chrome's DevTools )
 
-
-###Getting Started
+##Getting Started
 * (link: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files text: mozila: Getting started with the web: Dealing with files)
 * (link: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics text: mozila: Getting started with the web: So what is HTML?)
 * (link: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics text: mozila: Getting started with the web: So what is CSS, really?)
 
-
-###More
+##More
 * (link: http://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html text: Unix for Mac OS X Users)
 * (link: http://copypastecharacter.com/ text: Copy Paste Character)
 * (link: http://devdocs.io/ text: Devdocs)
 * (link: https://caniuse.com/ text: Can I Use?)
 
-###At CCA
+##At CCA
 * (link: https://www.cca.edu/students/resources/appointments text: CCA's Learning Resource Center popup: yes)

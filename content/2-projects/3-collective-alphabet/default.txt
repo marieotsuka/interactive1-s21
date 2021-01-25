@@ -1,0 +1,36 @@
+Title: Collective Alphabet
+
+----
+
+Project: 0
+
+----
+
+Text:
+
+To kickoff P1, we’ll work together to make a collective, modular, alphabet. Keep in mind… What is a modular typeface? What are strategic ways of drawing letters? What are expressive ways of drawing letters using a systemic approach (like the provided)? 
+
+We'll be working in this file for the exercise: [Collective Alphabet in Figma](https://www.figma.com/file/M299j2lBT09ZiySVUNxTiJ/Collective-Alphabet-Exercise?node-id=0%3A1)
+
+
+**References**
+* [FontStruct, modular typeface tool](http://fontstruct.com/)
+* Julian Schrofer
+* Wim Crouwel 
+* Tauba Auerbach
+* [Excel Art by Daniel Aubert](http://www.danielleaubert.info/index.php/16-months-worth-of-drawings-in-microsoft-excel/)
+* [Super Mario Bros in Excel](https://www.youtube.com/watch?v=ax2UBISNv2A)
+
+**Instructions Part 1**
+In Part 1 of the exercise, you will draw a series of characters in black and white using a 12x12 grid in Figma. 
+1. Open the [Collective Alphabet in Figma](https://www.figma.com/file/M299j2lBT09ZiySVUNxTiJ/Collective-Alphabet-Exercise?node-id=0%3A1) file
+2. Find your name in the file, you’ll be responsible for designing the row next to and below your name.
+3. You’ll see that there are two 12x12 grids per letter. In the left column, highlight cells in *black* to draw the assigned letter by changing the fill of each square. 
+
+**Instructions Part 2**
+In Part 2 of the exercise, you will exchange letters with your classmates, and using their work as a base – create a colored ‘state’ of their letters.
+1. In the same file, move down to the next row. For instance if chris drew A and B, and Dom drew C and D – chris would work with C and D, and Dom with C and D, and so on for the rest of the alphabet. The designer with & and * will work with A and B in this step of the exercise. 
+2. In your selected letter’s right column, using the design made in part 1 as a starting point, explore the use of color, patterns and images to draw a new version of those characters.
+
+**Next Steps**
+In the same [project (CSS Typeface)](https://www.figma.com/files/project/22905785/CSS-Typeface) in Figma, create a new file and name it [lastname_firstname-type_sketches]. In this file design two unique _modular_ directions for each of your "Collective Alphabet" characters. This means 4 designs total. Each character can reuse a concept, or have a totally unique design.

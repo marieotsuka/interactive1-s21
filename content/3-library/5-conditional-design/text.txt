@@ -1,0 +1,39 @@
+Title: Conditional Design
+
+----
+
+Subtitle: A manifesto for artists and designers.
+
+----
+
+Author-first: 
+
+----
+
+Author-last: Moniker
+
+----
+
+Year: 2011
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link: (link: https://conditionaldesign.org/manifesto/ popup:yes)
+
+----
+
+Further-metadata: 
+
+----
+
+Text: 
+
+Through the influence of the media and technology on our world, our lives are increasingly characterized by speed and constant change. 
+
+----
+
+Selected-image:

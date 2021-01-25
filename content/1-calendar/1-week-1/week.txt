@@ -21,23 +21,18 @@ Doc: https://docs.google.com/document/d/1J17XXpYolZRI-pYanXMx45Zj1_8wxCnI5b5Y6fP
 Text: 
 
 ## In-Class
-* Introductions and Class overview
-* Sign up for Slack, Figma, etc.
-* Exercise (link: exercises/class-site text: Class Websites)
-* Lecture: Modular Letterform Inspiration
-* Kickoff (link: projects/css-typeface text: P1 – CSS Typeface)
+* Introductions and Class overview – determine drop-in co-work/office hours
+* Sign up, download, and join [Github](https://github.com/), [Slack](https://slack.com/) and [Figma](https://www.figma.com/) (use your .edu email for these services, and for Figma verify student status under "For Students" [here](https://figma.com/education))
+* Exercise [Class Websites](/projects/class-site)
+* Kickoff [P1 – CSS Typeface](/projects/css-typeface)
+* Lecture: Jurriaan Schrofer
 
 ## For Next Week
-* Join the class Slack
-* Exercise (link: # text: Excel Typeface)
-* Using Figma template design 2 versions of 5 characters (a word) of a modular typeface
-* Review Lectures: Intro to the Web, HTML Basics pt. 1, The Chrome Inspector
-* Codecademy: HTML
-
-
-##Read
-* (link: library/poetry_of_tools text: ...)
-* (link: library/poetry_of_tools text: The Poetry of Tools, Mindy Seu)
+* Post a link to your class site on Slack or Moodle (TBD depending on class access)
+* Do the Exercise [Collective Alphabet](/projects/collective-alphabet), then create a new Figma file and make two new modular designs for your letterforms ([CSS Typeface](projects/css-typeface) Step 1)
+* Review Lectures: [Intro to HTML](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=643a5146-73f7-4293-b6c2-acba00429e30), [The Chrome Inspector](#), [Intro 2 WWW](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=242387eb-ab8e-43b6-88c2-acba002ab61c)
+* Codecademy: [HTML Elements and Structure](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements) (sign up for the basic/free account)
+* Read [The Cobweb](/library/the-cobweb) by Jill Lepore and post a comment/question and reply to one of your classmates posts on TBD platform
 
 
 ----

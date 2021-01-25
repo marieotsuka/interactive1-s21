@@ -1,0 +1,41 @@
+Title: The Cobweb
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: Jill
+
+----
+
+Author-last: Lepore
+
+----
+
+Year: 2015
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link to article: (link: http://www.newyorker.com/magazine/2015/01/26/cobweb popup: yes)
+
+----
+
+Further-metadata: from *The New Yorker*
+
+----
+
+Text: 
+
+(image: Cobweb_JillLepore.jpg)
+
+Malaysia Airlines Flight 17 took off from Amsterdam at 10:31 A.M. G.M.T. on July 17, 2014, for a twelve-hour flight to Kuala Lumpur. Not much more than three hours later, the plane, a Boeing 777, crashed in a field outside Donetsk, Ukraine. All two hundred and ninety-eight people on board were killed. The plane’s last radio contact was at 1:20 P.M. G.M.T. At 2:50 P.M. G.M.T., Igor Girkin, a Ukrainian separatist leader also known as Strelkov, or someone acting on his behalf, posted a message on VKontakte, a Russian social-media site: “We just downed a plane, an AN-26.” (An Antonov 26 is a Soviet-built military cargo plane.) The post includes links to video of the wreckage of a plane; it appears to be a Boeing 777.
+
+----
+
+Selected-image: 
