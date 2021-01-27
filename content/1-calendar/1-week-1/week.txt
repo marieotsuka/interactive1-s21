@@ -47,7 +47,7 @@ Text:
 * Codecademy: [HTML Elements and Structure](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements) (sign up for the basic/free account)
 
 ### Reading
-* Read [The Cobweb](/library/the-cobweb) by Jill Lepore and post a comment/question and reply to one of your classmates posts on Slack(TBD)
+* Read [The Cobweb](/library/the-cobweb) by Jill Lepore and post a comment/question and reply to one of your classmates posts on the [Moodle Thread](https://moodle.cca.edu/mod/forum/discuss.php?d=30474)
 
 
 ----
