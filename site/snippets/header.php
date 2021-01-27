@@ -9,7 +9,7 @@
   <meta name="description" content="<?= $site->description()->html() ?>">
 
   <?= css('assets/css/index.css') ?>
-
+  <link rel="icon" href="/assets/images/favicon.png" type="image/png" />
 </head>
 <body class="<?= $page->title() ?> <?= $page->parent()->title() ?>">
   <header class="header wrap wide" role="banner">

@@ -14,4 +14,4 @@ It is influenced by curriculums developed by Will Ruby, Federico Pérez Villoro,
 
 This website runs on (link: https://getkirby.com/ text: Kirby popup: yes) and uses a theme adapted by Chris Hamamoto from a site originally developed by Laurel Schwulst.
 
-If available on your computer, the typeface displayed is PingFang TC by [DynaComware](https://www.dynacw.com/en/), bundled with OS X 10.11 El Capitan; the bullet icon is the 'blackSunWithRays' glyph from the typeface Hiragino Sans by [Jiyukobo](http://www.jiyu-kobo.co.jp/). If not, you will be seeing Arial or another sans-serif, and another fallback system font for the icon. 
+If available on your computer, the typeface displayed is PingFang TC by [DynaComware](https://www.dynacw.com/en/), bundled with OS X 10.11 El Capitan; the bullet icon is the 'blackSunWithRays' glyph from the typeface Hiragino by [Jiyukobo](http://www.jiyu-kobo.co.jp/). If not, you will be seeing Arial or another sans-serif, and another fallback system font for the icon. 
