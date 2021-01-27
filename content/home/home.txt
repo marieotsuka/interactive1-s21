@@ -7,7 +7,7 @@ Links:
 * [Moodle Discussion](https://moodle.cca.edu/mod/forum/view.php?f=9174)
 * [Demos Repository](https://github.com/marieotsuka/interactive1-s21-demos)
 * [Lecture Recordings](https://ccarts.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0580d942-5586-4430-a553-acba00033657)
-* [Sign up for Office Hours](https://docs.google.com/spreadsheets/d/1oeaE0FIspZzPnjccBqPXRsesNEiFkhOHEpj-z_hJV84/edit?usp=sharing)
+* [Office Hours](https://docs.google.com/spreadsheets/d/1oeaE0FIspZzPnjccBqPXRsesNEiFkhOHEpj-z_hJV84/edit?usp=sharing)
 
 ----
 
@@ -74,7 +74,7 @@ Before class the week’s assignments will be due (unless otherwise stated), and
 
 Similarly, the instructor will post an overview for the next week to the class website before each class session.
 
-For troubleshooting help, [Sign up](https://docs.google.com/spreadsheets/d/1oeaE0FIspZzPnjccBqPXRsesNEiFkhOHEpj-z_hJV84/edit?usp=sharing)(be sure to be signed in with your CCA email to access this sheet) for a slot for Office Hours, on Fridays 1pm–2pm PST. You can use the same class zoom link.
+For troubleshooting help, [Sign up](https://docs.google.com/spreadsheets/d/1oeaE0FIspZzPnjccBqPXRsesNEiFkhOHEpj-z_hJV84/edit?usp=sharing) for a slot for Office Hours, on Fridays 1pm–2pm PST  (be sure to be signed in with your CCA email to access this sheet). You can use the same class zoom link.
 
 
 ## Grading
