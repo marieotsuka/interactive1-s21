@@ -19,9 +19,7 @@ In Part 1 of the exercise, you will draw a series of characters in black and whi
 3. You’ll see that there are two 12x12 grids per letter. In the left column, highlight cells in *black* to draw the assigned letter by changing the fill of each square. 
 
 **Instructions Part 2**
-In Part 2 of the exercise, you will exchange letters with your classmates, and using their work as a base – create a colored ‘state’ of their letters.
-1. In the same file, move down to the next row. For instance if chris drew A and B, and Dom drew C and D – chris would work with C and D, and Dom with C and D, and so on for the rest of the alphabet. The designer with & and * will work with A and B in this step of the exercise. 
-2. In your selected letter’s right column, using the design made in part 1 as a starting point, explore the use of color, patterns and images to draw a new version of those characters.
+We will be exchanging letters to collaborate on next week!
 
 **Next Steps**
 In the same [project (CSS Typeface)](https://www.figma.com/files/project/22905785/CSS-Typeface) in Figma, create a new file and name it [lastname_firstname-type_sketches]. In this file design two unique _modular_ directions for each of your “Collective Alphabet” characters. This means 4 designs total. Each character can reuse a concept, or have a totally unique design.

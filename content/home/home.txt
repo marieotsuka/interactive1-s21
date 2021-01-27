@@ -4,6 +4,7 @@ Title: Home
 
 Links: 
 * [Class Zoom](https://cca.zoom.us/j/96329858625)
+* [Moodle Discussion](https://moodle.cca.edu/mod/forum/view.php?f=9174)
 * [Demos Repository](https://github.com/marieotsuka/interactive1-s21-demos)
 * [Lecture Recordings](https://ccarts.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0580d942-5586-4430-a553-acba00033657)
 
@@ -39,14 +40,14 @@ We will learn basic HTML, CSS, and JS programming along with methods for concept
 * (link: https://www.sublimetext.com/ text: Sublime Text popup: yes) for editing and updating code
 * (link: https://desktop.github.com/ text: Github Desktop Client popup: yes) for uploading our websites
 * (link: http://figma.com text: Figma popup: yes) for image/media generating, editing, and prototyping 
-* (link: https://slack.com/ text: Slack popup: yes) for class communications
+* (link: https://moodle.cca.edu/mod/forum/view.php?f=9174 text: Moodle popup: yes) for class communications
 * (link: https://glitch.com/ text: Glitch popup: yes) for online coding
 * (link: https://zoom.us/ text: Zoom popup: yes) for video calls
 * Phone, digital camera, scanner, screen capture etc.
 
 
 ## Readings
-* There will be routine readings with discussions taking place on Moodle/Slack. All students will be required to pose one question and respond to another students question about each reading.
+* There will be routine readings with discussions taking place on Moodle. All students will be required to pose one question and respond to another students question about each reading.
 
 
 ## Class Activities
@@ -67,8 +68,7 @@ For final and group crits, we will meet as a group on Zoom.
 
 *Wednesday*
 Before class the week’s assignments will be due (unless otherwise stated), and turned in via: 
-* Slack for files such as PDFs
-* Via upload to your class website with links posted to Slack
+* Links posted to Moodle
 * Reading responses posted in their dedicated channel (the instructor will create the channel each week)
 
 Similarly, the instructor will post an overview for the next week to the class website and Slack before each class session.

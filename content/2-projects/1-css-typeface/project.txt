@@ -41,7 +41,13 @@ When it is time to create the website to display your typeface, consider its sub
 Parametric design and modular type discussion
 
 **Step 1: Due Weds Feb 3**
-To get started, complete the [Collective Alphabet Exercise](/projects/collective-alphabet) which will act as inspiration for the project. Based on this exercise create two unique _modular_ directions for each of your “Collective Alphabet” characters in graphics in a new Figma file. This means 4 designs total. Each character can reuse a concept, or have a totally unique design. The typeface need not be grid-based (based off of a square grid,) but should be reusing a limited kit of parts to construct its forms.
+To get started, first complete a sketch of 2 letters in BW for the [Collective Alphabet Exercise](/projects/collective-alphabet) which will act as inspiration for the project.
+
+Based on this exercise create two unique _modular_ directions for each of your “Collective Alphabet” characters in graphics in a new Figma file. This means 4 designs total. Each character can reuse a concept, or have a totally unique design. 
+For this part, the typeface need not be grid-based (based off of a square grid,) but should be reusing a limited kit of parts to construct its forms. 
+
+Please post a link to your Figma file with your alphabet concepts on your class website.
+
 
 **Step 2: Due Weds Feb 10**
 Based on feedback of your two directions, select one for your typeface. Complete your typeface drawing in Figma as much as possible, then begin building your letters in HTML and CSS. Here are the characters I would like you to have:

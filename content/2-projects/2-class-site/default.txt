@@ -24,8 +24,6 @@ First, make sure you have a text editor downloaded. I will be demoing in Sublime
 
 Next, we’ll set up our Github account, Github Desktop, and create a repository to host our files online.
 
-GitHub is a web-based repository hosting service based on the Git version control and source code management system. GitHub allows individuals and teams of programmers to manage, share, store and make editable revisions to projects. We will be using Github’s code sharing and publishing service to store our class projects. 
-
 See more on Github on [Github Guides](https://guides.github.com/).
 
 1. Go to [github.com](https://github.com/) and create an account (make sure to verify your account).
@@ -35,7 +33,7 @@ See more on Github on [Github Guides](https://guides.github.com/).
 
 By using Github Desktop to “Fetch” from the remote repository, you’ll always have access to the latest demo codes that are relevant to our lectures each week.
 
-* To view these Demo files in the finder, Shift+Command+F or go to *Repository > Show in Finder* from the top Menu.
+* To view these Demo files in the finder, `Shift+Command+F` or go to *Repository > Show in Finder* from the top Menu.
 
 ### Setup your own Repository
 
@@ -53,7 +51,7 @@ By using Github Desktop to “Fetch” from the remote repository, you’ll alwa
 
 1. Navigate to the *interactive1-s21-demos* folder on your computer.
 Open the folder *week-1 > 00_class-site-starter-kit*.
-2. Copy the contents of that folder into your own repository, *interactive-foundations* folder.
+2. Display hidden files using `Command + Shift + .` for Mac, or `Command + Shift + ,` for Windows. There should be 2 files: an `index.html` file and a `.gitignore` file. Copy the contents of that folder into your own repository, *interactive-foundations* folder.
 3. Go back to your Github application. You’ll see some empty input fields, one that says “Summary” and the other that says “Description”. 
     1. In the summary, summarize what you just did. You might say something like “initial commit” or “hello world”. 
     2. If you want to say more, type it in description, but this is optional.
@@ -62,7 +60,7 @@ Open the folder *week-1 > 00_class-site-starter-kit*.
 
 * If we’ve done everything correctly, our webpage should be accessible on the web. Navigate to *https://[username].github.io/interactive-foundations/* and it’s live! This will be your class homepage.
 
-From now on, whenever you want to update your page, first do it to your local version. Your local version is saved on your personal computer. Then, when you want to push it “live” (to the online version), open up your Github application. Make sure that the "main/master" branch is selected from the dropdown (this is very important!) and press “Commit”. Then press “Sync” in the upper right hand corner.
+From now on, whenever you want to update your page, first do it to your local version. Your local version is saved on your personal computer. Then, when you want to push it “live” (to the online version), open up your Github application. Make sure that the "main/master" branch is selected from the dropdown (this is very important!) and press “Commit”. Then press “Push” in the upper right hand corner.
 
 
 ***

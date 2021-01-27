@@ -211,6 +211,7 @@ ul#menu li, .Resources ul li, ul.library li {
 
 
 .links li a, .people li, .exercises li a, .Resources .main li a{
+  display: inline-block;
   text-decoration: none;
   border: 1px solid #222;
   border-radius: 20px;

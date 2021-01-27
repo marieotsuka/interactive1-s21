@@ -22,7 +22,7 @@ Text:
 
 ## In-Class
 * Introductions and Class overview – determine drop-in co-work/office hours
-* Sign up, download, and join [Github](https://github.com/), [Slack](https://slack.com/) and [Figma](https://www.figma.com/) (use your .edu email for these services, and for Figma verify student status under “For Students” [here](https://figma.com/education))
+* Sign up and join [Github](https://github.com/) and [Figma](https://www.figma.com/) (use your .edu email for these services, and for Figma verify student status under “For Students” [here](https://figma.com/education)). Download [Sublime Text](https://www.sublimetext.com/) and [Github Desktop](https://desktop.github.com/).
 * Exercise [Class Websites](/projects/class-site)
 * Lecture: Modular Type
 * Kickoff [P1 – CSS Typeface](/projects/css-typeface) with [Collective Alphabet Exercise](/projects/collective-alphabet)
@@ -30,7 +30,7 @@ Text:
 ## For Next Week
 
 ### Project
-* Based on what you learn from the lectures and tutorials, experiment with building out your class site. (You will be developing your class site throughout the semester.) Post a link on Slack or Moodle (TBD depending on class access.) 
+* Based on what you learn from the lectures and tutorials, experiment with building out your class site. (You will be developing your class site throughout the semester.) Post a link on [Class Sites Thread](https://moodle.cca.edu/mod/forum/discuss.php?d=30475) on Moodle.
 * Do the Exercise [Collective Alphabet](/projects/collective-alphabet), then create a new Figma file and make two new modular designs for your letterforms. See [CSS Typeface](projects/css-typeface) Step 1 for details.
 
 

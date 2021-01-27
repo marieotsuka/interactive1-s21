@@ -26,11 +26,10 @@ Because of the way special characters and spaces are treated in URLs, it’s bes
 
 ##Downloads
 * To edit code, download (link: http://www.sublimetext.com text: Sublime Text popup: yes).
-* For Browsing the web and viewing our pages, use (link:https://www.google.com/chrome/ text: Google Chrome) (we'll use Chrome exclusively because of its devtools).
+* For Browsing the web and viewing our pages, use (link:https://www.google.com/chrome/ text: Google Chrome) (we’ll use Chrome exclusively because of its devtools).
 
 ##Online Tools
 * (link: http://figma.com text: Figma popup: yes) for image/media generating, editing, and prototyping 
-* (link: https://slack.com/ text: Slack popup: yes) for class communications
 * (link: https://glitch.com/ text: Glitch popup: yes) for online coding
 * (link: https://zoom.us/ text: Zoom popup: yes) for video calls
 
