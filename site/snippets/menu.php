@@ -24,4 +24,9 @@
 			Library
 		</a>
 	</li>
+	<li>
+		<a href="<?= url() ?>/about/" id="aboutlink" rel="about">
+			About
+		</a>
+	</li>
 </ul>

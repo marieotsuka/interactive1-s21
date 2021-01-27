@@ -1,0 +1,17 @@
+Title: About
+
+----
+
+Text: 
+
+This is the class website for Interactive 1 (GRAPH-2120-2) at [CCA](https://www.cca.edu/).
+Online, W 8:00-11:00am PST
+Instructor: Marie Otsuka / TA: Sophia Kang
+
+This course was developed in collaboration with Chris Hamamoto, who is teaching the [evening section](http://interactive.designing.tools/) of this class.
+
+It is influenced by curriculums developed by Will Ruby, Federico Pérez Villoro, Mindy Seu, Clement Valla, Minkyoung Kim, and Laurel Schwulst, and past versions of Interactive 1 at CCA.
+
+This website runs on (link: https://getkirby.com/ text: Kirby popup: yes) and uses a theme adapted by Chris Hamamoto from a site originally developed by Laurel Schwulst.
+
+If available on your computer, the typeface displayed is PingFang TC by [DynaComware](https://www.dynacw.com/en/), bundled with OS X 10.11 El Capitan; the bullet icon is the 'blackSunWithRays' glyph from the typeface Hiragino Sans by [Jiyukobo](http://www.jiyu-kobo.co.jp/). If not, you will be seeing Arial or another sans-serif, and another fallback system font for the icon. 
