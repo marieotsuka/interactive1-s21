@@ -15,23 +15,25 @@ Adapted from a project by (link: https://brianwatterson.com/ text: Brian Watters
 
 Text: 
 
-Through this project, you will experiment formally in HTML and CSS through creation of your very own typeface. That said, your typeface should somehow take advantage of its unique material. How is a typeface online (on a screen) different from one in a book (on a printed page)? How do the media differ? What are the dynamic properties of the web that printed matter lacks? And vice-versa: is there anything that printed matter has that the web doesn't? The concept for your typeface should come across formally and also allude to the way it was created (programming HTML and CSS).
+Through this project, you will experiment formally in HTML and CSS through creation of your very own typeface. That said, your typeface should somehow take advantage of its unique material. How is a typeface online (on a screen) different from one in a book (on a printed page)? How do the media differ? What are the dynamic properties of the web that printed matter lacks? And vice-versa: is there anything that printed matter has that the web doesn’t? The concept for your typeface should come across formally and also allude to the way it was created (programming HTML and CSS).
 
-Your typeface should exist in at least two visual 'states'. These states can take advantage of the HTML/CSS hover state, continuously run like a screensaver, or be triggered via a :hover state. What does this additional form say about the digital format? Is it a means to be expressive? To hide and reveal new information? Are there multiple layers to your typeface that represent different types of information? Connect these visual forms to the concept of your typeface.
+Your typeface should exist in at least two visual ‘states.’ These states can take advantage of the HTML/CSS hover state, continuously run like a screensaver, or be triggered via a :hover state. What does this additional form say about the digital format? Is it a means to be expressive? To hide and reveal new information? Are there multiple layers to your typeface that represent different types of information? Connect these visual forms to the concept of your typeface.
 
-When it is time to create the website to display your typeface, consider its subject. How can your website's focus not only reinforce but push forward the concept of your typeface? How will your typeface be used? What material can you present in your typeface to take it to a new level? Can the website surprise viewers in some way to further explore the concept even more?
+When it is time to create the website to display your typeface, consider its subject. How can your website’s focus not only reinforce but push forward the concept of your typeface? How will your typeface be used? What material can you present in your typeface to take it to a new level? Can the website surprise viewers in some way to further explore the concept even more?
+
 
 ###Learning Outcomes
-
-* Create a typeface using only HTML and CSS. It should have a complete character set and at minimum 2 visual 'states'.
-* Once you've designed and built your typeface, create a website to display your complete typeface.
-* You must give your typeface a name
+* Consider modularity as a process for systematically and generatively making form
+* Understand HTML structure as a way to group elements together
+* Learn how to use CSS as a designing and drawing tool
+* Explore experimental ways of using web programming
 
 
 ###Requirements
 
-* Create a typeface using only HTML and CSS. It should have a complete character set and at minimum 2 visual 'states'.
-+ Once you've designed and built your typeface, create a website to display your complete typeface.
+* Create a typeface using only HTML and CSS. It should have a complete character set and at minimum 2 visual ‘states.’
+* Once you’ve designed and built your typeface, create a website to display your complete typeface.
+* You must give your typeface a name
 
 ###Project
 
@@ -39,17 +41,17 @@ When it is time to create the website to display your typeface, consider its sub
 Parametric design and modular type discussion
 
 **Step 1: Due Weds Feb 3**
-To get started, complete the [Collective Alphabet Exercise](/projects/collective-alphabet) which will act as inspiration for the project. Based on this exercise create two unique _modular_ directions for each of your "Collective Alphabet" characters in graphics in a new Figma file. This means 4 designs total. Each character can reuse a concept, or have a totally unique design.
+To get started, complete the [Collective Alphabet Exercise](/projects/collective-alphabet) which will act as inspiration for the project. Based on this exercise create two unique _modular_ directions for each of your “Collective Alphabet” characters in graphics in a new Figma file. This means 4 designs total. Each character can reuse a concept, or have a totally unique design. The typeface need not be grid-based (based off of a square grid,) but should be reusing a limited kit of parts to construct its forms.
 
 **Step 2: Due Weds Feb 10**
-Based on feedback of your two directions, select one for your typeface. Complete your typeface drawing in Figma as much as possible. Here are the characters I would like you to have:
+Based on feedback of your two directions, select one for your typeface. Complete your typeface drawing in Figma as much as possible, then begin building your letters in HTML and CSS. Here are the characters I would like you to have:
 
 either: abcdefghijklmnopqrstuvwxyz
 or: ABCDEFGHIJKLMNOPQRSTUVWXYZ
 as well as: 0123456789 (numbers) and .?!,”“ (punctuation)
 
 **Step 3: Due Weds Feb 17**
-Finalize your proposal (using InDesign or another sketching tool) for the website your typeface will live on. How can your website's focus not only reinforce but push forward the concept of your typeface? Remember to upload the sketches to your class website.
+Finalize your proposal (using InDesign, Figma, or another sketching tool) for the website your typeface will live on. How can your website’s focus not only reinforce but push forward the concept of your typeface? Remember to upload the sketches to your class website.
 * Ask yourself: What makes a typeface specific to the screen or the web?
 * Think about your typeface in two states. (How does your typeface "breathe"?)
 * Think about what your typeface would do if it were a screen saver.
@@ -83,7 +85,7 @@ Week 6
 Step 4 Due / Final Crit
 ```
 
-###Reading
+### Relevant Readings
 * (link: library/computed_type text: Computed Type popup: yes), by Christoph Knoth
 * (link: /library/original_copies text: 10,000 Copies popup: yes), by Kris Sowersby
 * (link: /library/poetry_of_tools text: The Poetry of Tools popup: yes), by Mindy Seu
@@ -97,35 +99,39 @@ Step 4 Due / Final Crit
 * (link: https://yuinchien.com/projects/alphabet/index.html text: Alphabet popup: yes) by Yuin Chien
 * (link: https://yuinchien.com/projects/numerical/index.html text: Numerical popup: yes) by Yuin Chien
 * (link: https://www.google.com/search?q=wim+crouwel+grid&espv=2&biw=1498&bih=1065&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiQ5Yn8lcLPAhUKE5QKHcckCOoQ_AUIBigB&dpr=0.9#imgrc=XBOAhBJRtBF71M%3A">Wim text: Crouwel's grids
-* (link: http://diagonalpress.com/collections text: Tauba Auerbach's Type Specimens popup: yes)
+* (link: http://diagonalpress.com/collections text: Tauba Auerbach’s Type Specimens popup: yes)
 * (link: https://www.google.com/search?q=jurriaan+schrofer&espv=2&biw=1498&bih=1065&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjmq67SlsLPAhWBOpQKHQG_CWwQ_AUIBigB&dpr=0.9 text: Jurriaan Schrofer popup: yes)
 * (link: https://www.youtube.com/watch?v=xWRRAw6xzos text: Rhythmetic popup: yes) by Norman McLaren and Evelyn Lambart, 1956
 * (link: https://www.youtube.com/watch?v=tPxgi-PiNFE text: Enter the Void Trailer popup: yes) by Gasper Noe, 2011
 * (link: https://www.youtube.com/watch?v=Ud4NN8pE74A text: Watch Wyoscan popup: yes) by Dexter Sinister, 2012
-* (link: http://nowismorethanever.com/ text: Now Is More Than Ever popup: yes) by Damon Zucconi
+* (link: https://s3-us-west-2.amazonaws.com/visiblelanguage/pdf/16.1/the-concept-of-a-meta-font.pdf text: Donald Knuth’s Metafont popup: yes)
+* (link: https://www.metaflop.com/modulator text: Metaflop modulator popup: yes)
+* (link: https://v-fonts.com/fonts/amstelvar text: Amstelvar popup: yes) by David Berlow
 * (link: https://vimeo.com/65248695 text: Letter &amp; Spirit popup: yes) by Dexter Sinister, 2012
 * (link: https://vimeo.com/60651938 text: Computed Type popup: yes) by Christoph Knoth, 2013
 * (link: https://vimeo.com/36132600 text: Unicode popup: yes) by Jörg Piringer, 2012
-* (link: http://whitney.org/NewIdentity text: Whitney's Responsive W popup: yes) by Experimental Jetset, 2013
+* (link: http://whitney.org/NewIdentity text: Whitney’s Responsive W popup: yes) by Experimental Jetset, 2013
+* (link: https://andwalsh.com/work/all/jewish-museum-identity/ text: Jewish Museum identity popup: yes) by Sagmeister & Walsh, 2014
 * (link: https://www.youtube.com/watch?v=n4MDsCmGkto text: bOOg popup: yes) by Freeware/Delaware, 2012
-* (link: http://www.typatone.com/ text: Typatone popup: yes) by Jono Brandel, 2015
-* (link: https://radimpesko.com/fonts/sol text: Radim Pesko's Sol popup: yes)
+* (link: https://bitcount.typenetwork.com/ text: Bitcount popup: yes) by Petr Van Blokland
+* (link: https://radimpesko.com/fonts/sol text: Radim Pesko’s Sol popup: yes)
 * (link: http://www.bloomberg.com/businessweek/design-conference/ text: Bloomberg Businessweek Design Conference popup: yes)
 * (link: http://www.yhchang.com/ text: Young-Hae Chang Heavy Industries popup: yes)
 * (link: https://studiomoniker.com/projects/place-a-stone text: Place a Stone popup: yes) by Studio Moniker
-* (link: http://letterror.com/dev/mathshapes/ text: Math Shapes popup: yes) by LettError
 * (link: http://showcase.commercialtype.com/ text: Commercial Type Showcase popup: yes)
 * (link: http://www.hansje.net/ text: Hansje van Halem popup: yes)
-
+* (link: https://www.alphabettes.org/marina-loves-the-kaba-ornament/ text:The Kaba Ornament popup:yes) by Bram de Does
 
 ###Student Examples
 * (link: https://kermenchoung.github.io/Interactive2/Projects/Project2/index.html text: Power Wire popup: yes) by Kermen
 * (link: https://ynakamoto.github.io/interactive2/typeface/specimen/index.html text: Scanimation popup: yes) by Yvette
 * (link: https://kevinkaocooper.github.io/interactive2/csstype/csstypeBLK.html text: Ghost popup: yes) by Cooper
-* (link: https://louyifeng.github.io/interactive2/Typeface/second.html text: Neon popup: yes) by Ivan
 * (link: https://aelazegui.github.io/interactive2/projects/P2-CSSTypeface/Code/Typeface-Animate/1-Project/CSS-Typeface-alphabet.html text: Dark Pixie popup: yes) by Alexis
 * (link: https://janicesalikin.github.io/interactive2/typeface/index.html text: Skeuo popup: yes) by Janice
 * (link: https://civan-415.github.io/interactive2/projects/P1_Typography/superuselesstypeface%20-%20master%20-%20Copy/index.html text: Super popup: yes) by Ivan
 * (link: https://kaminglee.github.io/interactive2/CSSTYPE/index.html text: Junchill popup: yes) by Jono
 * (link: https://elizabethsee.github.io/interactive2/Typefacewebsite text: mere popup: yes) by Ellie 
 * (link: https://annielee9595.github.io/interactive2/type4/index.html text: Silhouette popup: yes) by Annie
+* (link: https://jjeon02.github.io/jueunwebtype2020/project_2-3/font.html text: Retro Future Font popup: yes) by Jueun Jeon
+* (link: https://fsumm.github.io/Project2/project2.html text: Cybercon popup: yes) by Felix Summ
+* (link: https://tdingsun.github.io/web-type/chancery/ text: Cross Chancery popup: yes) by Tiger Dingsun

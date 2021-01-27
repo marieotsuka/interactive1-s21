@@ -4,6 +4,8 @@ Title: Home
 
 Links: 
 * [Class Zoom](https://cca.zoom.us/j/96329858625)
+* [Demos Repository](https://github.com/marieotsuka/interactive1-s21-demos)
+* [Lecture Recordings](https://ccarts.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0580d942-5586-4430-a553-acba00033657)
 
 ----
 
@@ -19,7 +21,7 @@ We will celebrate the Internet as a space for social and creative exchange as we
 
 Through projects, readings, workshops, and presentations we will explore the relevance of network technologies in the context of contemporary art and graphic design practices. 
 
-Students will learn basic HTML, CSS, and JS programming along with methods for conceptualizing, designing, and developing websites. Outcomes won't necessary be practical, nor pragmatically functional. Instead we will strive for a poetic understanding of design and the Internet as mediums for critical research and discourse.
+We will learn basic HTML, CSS, and JS programming along with methods for conceptualizing, designing, and developing websites. Outcomes won’t necessary be practical, nor pragmatically functional. Instead, we will strive for a poetic understanding of design and the Internet as mediums for critical research and discourse.
 
 ## Learning Outcomes
 * Develop a theoretical knowledge, technical understanding, and historical basis of the internet and design online
@@ -132,7 +134,6 @@ Further, when using found code make sure that your use of it is appropriate to y
 You may not use graphics, images, video, audio, or any other design elements that you did not create yourself, or that are obvious recreations of others work, under the pretense that they are your work. With the possible exemption of: 
 
 * Graphics such as a Facebook or Twitter icon in reference to those sites, etc, and that only in accordance with those organizations guidelines for such an elements use. In such cases those graphics should be a minor element in your design. 
-
 * If an assignment requires you to display found imagery and it is properly attributed 
 * Use of imagery in the (link: https://creativecommons.org/ text: Creative Commons popup: yes) that is cited and used based on its license
 
@@ -152,11 +153,6 @@ Remember:
 * When uploading materials to the web, make sure your assets are optimized for web so that the file sizes are as small as possible.
 * Double-check that all links on your site works.
 
-
-## Credits
-This course was developed in collaboration with Chris Hamamoto. It is influenced by curriculums developed by Will Ruby, Federico Pérez Villoro, Mindy Seu, Clement Valla, Minkyoung Kim, and Laurel Schwulst, and past versions of Interactive 1 at CCA.
-
-This website runs on (link: https://getkirby.com/ text: Kirby popup: yes) and uses a theme adapted by Chris Hamamoto from a site originally developed by Laurel Schwulst.
 
 ----
 

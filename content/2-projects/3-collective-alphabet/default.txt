@@ -10,16 +10,7 @@ Text:
 
 To kickoff P1, we’ll work together to make a collective, modular, alphabet. Keep in mind… What is a modular typeface? What are strategic ways of drawing letters? What are expressive ways of drawing letters using a systemic approach (like the provided)? 
 
-We'll be working in this file for the exercise: [Collective Alphabet in Figma](https://www.figma.com/file/M299j2lBT09ZiySVUNxTiJ/Collective-Alphabet-Exercise?node-id=0%3A1)
-
-
-**References**
-* [FontStruct, modular typeface tool](http://fontstruct.com/)
-* Julian Schrofer
-* Wim Crouwel 
-* Tauba Auerbach
-* [Excel Art by Daniel Aubert](http://www.danielleaubert.info/index.php/16-months-worth-of-drawings-in-microsoft-excel/)
-* [Super Mario Bros in Excel](https://www.youtube.com/watch?v=ax2UBISNv2A)
+We’ll be working in this file for the exercise: [Collective Alphabet in Figma](https://www.figma.com/file/M299j2lBT09ZiySVUNxTiJ/Collective-Alphabet-Exercise?node-id=0%3A1)
 
 **Instructions Part 1**
 In Part 1 of the exercise, you will draw a series of characters in black and white using a 12x12 grid in Figma. 
@@ -33,4 +24,14 @@ In Part 2 of the exercise, you will exchange letters with your classmates, and u
 2. In your selected letter’s right column, using the design made in part 1 as a starting point, explore the use of color, patterns and images to draw a new version of those characters.
 
 **Next Steps**
-In the same [project (CSS Typeface)](https://www.figma.com/files/project/22905785/CSS-Typeface) in Figma, create a new file and name it [lastname_firstname-type_sketches]. In this file design two unique _modular_ directions for each of your "Collective Alphabet" characters. This means 4 designs total. Each character can reuse a concept, or have a totally unique design.
+In the same [project (CSS Typeface)](https://www.figma.com/files/project/22905785/CSS-Typeface) in Figma, create a new file and name it [lastname_firstname-type_sketches]. In this file design two unique _modular_ directions for each of your “Collective Alphabet” characters. This means 4 designs total. Each character can reuse a concept, or have a totally unique design.
+
+
+**References**
+* [FontStruct, modular typeface tool](http://fontstruct.com/)
+* Julian Schrofer
+* Wim Crouwel 
+* Tauba Auerbach
+* [Excel Art by Daniel Aubert](http://www.danielleaubert.info/index.php/16-months-worth-of-drawings-in-microsoft-excel/)
+* [Super Mario Bros in Excel](https://www.youtube.com/watch?v=ax2UBISNv2A)
+

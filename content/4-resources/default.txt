@@ -6,17 +6,23 @@ Text:
 
 
 ##Lectures
+* [Intro to WWW](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=242387eb-ab8e-43b6-88c2-acba002ab61c)
 * [Intro to HTML](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=643a5146-73f7-4293-b6c2-acba00429e30)
-* [Intro 2 WWW](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=242387eb-ab8e-43b6-88c2-acba002ab61c)
 
 ##Demos
-* [The Chrome Inspector](#)
+* [HTML Basics](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93810cbf-d250-4e30-95a3-acba01690169)
+* [HTML Paths](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a0b263a-7119-4e6b-83da-acba016900ed)
+* [The Web Inspector](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=10c4fd43-d283-4e9d-ab12-acbb0052f093)
 
 
 ##Troubleshooting
 Try to be patient when writing code, so much of programming is debugging – typos are one of the most common errors! If you find yourself stuck, try breaking your issue down into smaller, more manageable parts. 
 
 Search Google or (link: http://stackoverflow.com/ text: Stack Overflow popup: yes) for how to solve those parts, one at a time. While frustrating, these bugs will may lead yout o discover something new you would not have considered before! 
+
+##Naming
+Because of the way special characters and spaces are treated in URLs, it’s best to avoid them when naming files and folders for web. It’s also recommended to use all lowercase, because of the way some systems may or may not be case-sensitive. 
+* not: `Filename Final.jpg` / yes: `filename-final.jpg`
 
 ##Downloads
 * To edit code, download (link: http://www.sublimetext.com text: Sublime Text popup: yes).
@@ -43,4 +49,4 @@ Search Google or (link: http://stackoverflow.com/ text: Stack Overflow popup: ye
 * (link: https://caniuse.com/ text: Can I Use?)
 
 ##At CCA
-* (link: https://www.cca.edu/students/resources/appointments text: CCA's Learning Resource Center popup: yes)
+* (link: https://www.cca.edu/students/resources/appointments text: CCA’s Learning Resource Center popup: yes)
