@@ -37,12 +37,15 @@ This exercise asks you to investigate the desktop interface, specifically throug
 * [CSS Transform on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 
 ###References
+* [moonsickgang](http://moonsickgang.com/)
+* [monomono.studio](https://monomono.studio/)
 * [rojanasakul.com/interpretation.php](http://rojanasakul.com/interpretation.php)
+* [elsewhere.space](http://elsewhere.space/)
 * [collectie.hetnieuweinstituut.nl/en](http://collectie.hetnieuweinstituut.nl/en)
 * [www.praneetsoi.info](http://www.praneetsoi.info/)
 * [www.andrewherzog.com](http://www.andrewherzog.com/)
 * [thewilderness.space](http://thewilderness.space/)
 * [www.colorflip.com](http://www.colorflip.com/)
-* [common-room.net](http://common-room.net/)
 * [newrafael.com](https://www.newrafael.com/websites/)
+* [common-room.net](http://common-room.net/)
 

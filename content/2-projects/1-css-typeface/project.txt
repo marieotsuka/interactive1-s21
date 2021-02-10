@@ -96,7 +96,28 @@ Step 3 Due
 ###Resources
 * (link: https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aec62db-4c5a-4ca8-9d92-acbe01754cc0 text: Lecture on Jurriaan Schrofer popup: yes) by Chris Hamamoto
 
-###References
+###Type Specimens
+* [Fem Type](http://www.femtype.com/)
+* [Untitled Sans](http://untitledsans.com/)
+* [Hypertext](https://hypertext.futurefonts.xyz/)
+* [Google Fonts and Chinese](https://googlefonts.github.io/chinese/#tc-About-20200212)
+* [Google Fonts and Korean](https://googlefonts.github.io/korean/)
+* [Temporary State](http://typefaces.temporarystate.net/preview/Manege)
+* [Gimlet](https://djr.com/gimlet-xray/)
+* [IBM Plex](https://www.ibm.com/plex/)
+* [Recursive](https://www.recursive.design/)
+* [Commercial Type Showcase](http://showcase.commercialtype.com/)
+* [GT Cinetype](https://gt-cinetype.com/)
+* [GT Walsheim](https://gt-walsheim.com/)
+* [GT America](https://gt-america.com/)
+* [GT Alpina](http://gt-alpina.com/)
+* [Dinamo Standards](http://dinamostandards.com/)
+* [Type and Media 2020 Showcase](https://2020.typemedia.org/)
+* [Type and Media 2019 Showcase](https://2019.typemedia.org/)
+* [ReadyMag RoundUp](https://2019.readymag.com/)
+* [Type Specimen Collection](https://typespecimens.xyz/specimens/all/)
+
+###Modular Type
 * (link: https://yuinchien.com/projects/max/ text: Max popup: yes) by Yuin Chien
 * (link: https://yuinchien.com/projects/alphabet/index.html text: Alphabet popup: yes) by Yuin Chien
 * (link: https://yuinchien.com/projects/numerical/index.html text: Numerical popup: yes) by Yuin Chien
