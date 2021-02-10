@@ -8,12 +8,26 @@ Text:
 ##Lectures
 * [Intro to WWW](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=242387eb-ab8e-43b6-88c2-acba002ab61c)
 * [Intro to HTML](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=643a5146-73f7-4293-b6c2-acba00429e30)
+* [Juraiaan Schrofer](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aec62db-4c5a-4ca8-9d92-acbe01754cc0)
+* [:hover States](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ddfdb85-3290-4192-a8ca-acca013463d6)
 
-##Demos
+## HTML Demos
 * [HTML Basics](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93810cbf-d250-4e30-95a3-acba01690169)
 * [HTML Paths](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a0b263a-7119-4e6b-83da-acba016900ed)
+* [Images and Assets](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bdc1b86-2124-45d0-9372-acba016900b4)
 * [The Web Inspector](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=10c4fd43-d283-4e9d-ab12-acbb0052f093)
 
+## CSS Demos
+* [Intro to CSS](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea9279a3-1514-46a5-9dc6-acc2001beb37)
+* [CSS Selectors](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bcccc27e-603e-443e-a29a-acc2001bea8c)
+* [CSS Colors](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89b37107-6205-43bf-9fb1-acc2001bea5d)
+* [CSS Box Model](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b405d668-e62a-4a61-a3b5-acc2001beac8) 
+* [CSS Position](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f7d1e009-395c-41c0-a803-acc300837bdf)
+* [CSS Units](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6655a1b2-4b8f-4128-bc95-acc20170921c)
+* [CSS Transitions](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=175510ae-b92c-4017-bcda-acca0134638c)
+* [CSS Transformations](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2f5aa60-e510-42cc-a377-acca0134642c)
+* [CSS Flexbox](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01e1b2a8-06af-4297-a4f7-acca01785f9a)
+* [CSS Backgrounds](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=470e3a94-6695-4b27-b8ab-acc201712387)
 
 ##Troubleshooting
 Try to be patient when writing code, so much of programming is debugging – typos are one of the most common errors! If you find yourself stuck, try breaking your issue down into smaller, more manageable parts. 
@@ -22,7 +36,7 @@ Search Google or (link: http://stackoverflow.com/ text: Stack Overflow popup: ye
 
 ##Naming
 Because of the way special characters and spaces are treated in URLs, it’s best to avoid them when naming files and folders for web. It’s also recommended to use all lowercase, because of the way some systems may or may not be case-sensitive. 
-* not: `Filename Final.jpg` / yes: `filename-final.jpg`
+* `Filename Final.jpg` --> `filename-final.jpg`
 
 ##Downloads
 * To edit code, download (link: http://www.sublimetext.com text: Sublime Text popup: yes).
@@ -46,6 +60,108 @@ Because of the way special characters and spaces are treated in URLs, it’s bes
 * (link: http://copypastecharacter.com/ text: Copy Paste Character)
 * (link: http://devdocs.io/ text: Devdocs)
 * (link: https://caniuse.com/ text: Can I Use?)
+
+
+Below are links to some references you may find useful.
+
+## Books
+
+While much of the information is available online, it's always nice to have a hard-copy reference. Here are some options:
+
+* [HTML & CSS](http://www.htmlandcssbook.com/) | [Javascript & JQuery](http://www.javascriptbook.com/) by Jon Duckett
+* [CSS: The Definitive Guide](http://shop.oreilly.com/product/9780596527334.do) by Eric Meyer
+* [Eloquent Javascript](http://eloquentjavascript.net/) (Available for free online)
+* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) by Scott Murray (Available for free online)
+
+## Basic reading
+* What is a [URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)?
+* About [Semantic HTML elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* A good primer: Chapter 3 of Scott Murray's [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html)
+* CSS [inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance)
+
+## General tutorials and reference
+* [Shay Howe’s Guides](https://learn.shayhowe.com/)
+* [CSS Basics](https://thecssworkshop.com/css-basics)
+* Begin with HTML / CSS course at [Codecademy](https://www.codecademy.com/learn/web)
+* Comprehensive documentation and guides: [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
+* Quick reference and tutorials: [W3Schools](http://www.w3schools.com/html/)
+* All sorts of CSS: [CSS Tricks](http://css-tricks.com/)
+* Article about [Content Display Patterns](http://danielmall.com/articles/content-display-patterns/)
+* [Answers for Young People](https://www.w3.org/People/Berners-Lee/Kids.html#invent) by Tim Berners-Lee
+* Dan Shiffman's Youtube lessons at The Coding Train on [p5.js](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14)
+* Blog resource for web developers: [Smashing Magazine ](http://www.smashingmagazine.com/)
+
+## Tools and Tips
+* [Responsive previewer](https://design.google.com/articles/introducing-resizer/)
+* [Working with SVG](https://github.com/blog/2112-delivering-octicons-with-svg)
+* [What goes in your head](https://github.com/joshbuchea/HEAD)
+* [Why Coding Style Matters](https://www.smashingmagazine.com/2012/10/why-coding-style-matters/) on Smashing Magazine (with useful list of validators)
+* [Writing your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/): HTML/CSS coding best practices and list of resources
+* Sublime Text [unofficial documentation](http://docs.sublimetext.info/en/latest/index.html) & [keyboard shortcuts](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
+* Sublime Text 2 [tutorial videos](https://www.youtube.com/user/GinhoFresh/videos?view=0&sort=p&flow=grid).
+* Using [Style Tiles](http://styletil.es/)
+
+## CSS layouts / grids
+* A guide to [centering things](https://css-tricks.com/centering-css-complete-guide/)
+* [Layout tutorials](http://learnlayout.com/)
+* [Float tutorials](http://css.maxdesign.com.au/floatutorial/index.htm)
+* CSS Tricks [Simple Grid Approach](http://css-tricks.com/dont-overthink-it-grids/)
+* Articles on A List Apart: [Content-out Layout](http://alistapart.com/article/content-out-layout) | [The Infinite Grid](http://alistapart.com/article/the-infinite-grid) | [Fluid Grids](http://alistapart.com/article/fluidgrids)
+
+
+## Validation, debugging, pre-processing
+* Browser Developer Tools: [Chrome](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/basics?hl=en) | [Firefox](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector)
+* [Firebug](http://getfirebug.com/) : a web development and debugging extension for Firefox
+* [W3.org HTML validator](http://validator.w3.org/#validate_by_upload)
+* [CSS Validator](http://jigsaw.w3.org/css-validator/)
+* [CSS Preprocessors](https://www.sitepoint.com/6-current-options-css-preprocessors/)
+
+
+## HTML5 tags
+* [Overview of newer HTML tags](http://diveintohtml5.info/semantics.html)
+* [Semantic tags in HTML5](http://www.w3schools.com/html/html5_semantic_elements.asp)
+* [Mix Blend Mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode)
+* [Nth-Child](http://nthmaster.com/)
+
+## Type and typography
+* [Ellen Lupton's Thinking with Type](http://thinkingwithtype.com/)
+* [Em vs. En Dash](http://www.alistapart.com/articles/emen) e.g. the em dash (`&#8212;`) & the en dash (`&#8211;`).
+* [Paragraph Formatting on the Web](http://v1.jontangerine.com/silo/typography/p/)
+* Character sets: HTML [Entities](http://Symbols) and [Character Codes](http://www.w3schools.com/charsets/ref_html_utf8.asp)
+* [Web Font Formats](http://www.smashingmagazine.com/2011/03/the-font-face-rule-revisited-and-useful-tricks/#web-font-formats)
+* [Font-squirrel’s Web Font generator](http://www.fontsquirrel.com/tools/webfont-generator) (if you have web rights).
+
+### Webfont distributors:
+* [TypeKit](https://typekit.com/fonts)
+* [Typotheque](https://www.typotheque.com/site/index.php)
+* [Webtype](http://www.webtype.com/)
+* [Fonts.com](http://www.fonts.com/)
+* [cloud.typography](http://www.typography.com/cloud/welcome)
+* [Typecast](http://typecast.com/)
+* [Font Deck](http://fontdeck.com/)
+* [Google Web Fonts](http://www.google.com/fonts) and [a nice selection](http://hellohappy.org/beautiful-web-type/).
+* [Use & Modify](http://usemodify.com/)
+* [Velvetyne Type](https://velvetyne.fr/)
+* [Open Foundry](https://open-foundry.com/)
+* [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+* [Cooper Hewitt Tyepface](http://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/)
+
+
+## Media Queries & Responsive design
+* [Responsive Design Media Queries](http://www.ugurus.com/responsive-design-media-queries)
+* [7 Habits of Highly Effective Media Queries](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/)
+* [mediaqueri.es](http://mediaqueri.es/): a collection of examples
+* [Favicons](http://realfavicongenerator.net/) for all devices
+
+
+## Javascript / Jquery
+* [Jquery](http://jquery.com)
+* [Jquery UI](https://jqueryui.com/)
+* [LetteringJS Library](http://letteringjs.com/) for tweaking typographical details
+* [paper.js Library](http://paperjs.org/) for manipulating vector graphics
+* [p5.js Library](https://p5js.org/) for Processing in the browser
+* [D3](https://d3js.org/) for interactive data visualizations. See also Scott Murray's [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+
 
 ##At CCA
 * (link: https://www.cca.edu/students/resources/appointments text: CCA’s Learning Resource Center popup: yes)

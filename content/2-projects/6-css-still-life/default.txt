@@ -1,0 +1,24 @@
+Title: CSS Still Life
+
+----
+
+Project: 0
+
+----
+
+Text:
+
+After reviewing the tutorial videos, try using CSS to “draw” an object: we will be “painting a still life” in the browser.
+
+Choose and object to draw — start off with something simple!
+
+Then, use a variety of CSS properties to try to style your HTML element to compose the forms in HTML + CSS. Don’t worry too much about it being a hyper-realistic drawing; try using the basic shapes you can make in the language and combine them in an illustrative way. Feel free to research additional CSS properties we don’t cover in the videos.
+
+You can see results of [the class demo cup](http://motsuka.com/interactive1-s21-demos/week-2/still-life/demo/) as well as a more [advanced example](http://motsuka.com/interactive1-s21-demos/week-2/still-life/olfa/) that takes advantage of positioning options.
+
+You can browse the [demo code here](https://github.com/marieotsuka/interactive1-s21-demos/tree/main/week-2/still-life) or just “Fetch” from the demos repository on Github Desktop to get the latest demo code synced up on your computer.
+ 
+### Reference:
+[CSS Shapes](https://css-tricks.com/the-shapes-of-css/)
+
+

@@ -50,7 +50,6 @@ We will learn basic HTML, CSS, and JS programming along with methods for concept
 ## Readings
 * There will be routine readings with discussions taking place on Moodle. All students will be required to pose one question and respond to another students question about each reading.
 
-
 ## Class Activities
 Clases will be in a primarily asynchronous model. This means most activities will take place at your own schedule, conforming to certain deadlines. The following activities will take place online via a number of platforms:
 
@@ -161,13 +160,14 @@ Remember:
 
 People:
 
-* Leo Cantu
-* Steven Degalan
-* Patricia Granados
-* Rosie Linares Díaz
-* Krishnaa Nair
+* [Leo Cantu](https://yungn4.github.io/interactive-foundations/)
+* [Steven Degalan](https://degalan.github.io/interactive-foundations/)
+* [Patricia Granados](https://misspattymih.github.io/interactive-foundations/)
+* [Weeland Huang](https://weeland.github.io/interactive-foundations/)
+* [Rosie Linares Díaz](https://rossie111.github.io/interactive-foundations/)
+* [Krishnaa Nair](https://krishnaa18.github.io/interactive-foundation/)
 * Owen Newman
-* Tiya Pertiwi
-* Divtesh Singh Pannu
-* Jasmine Wong
-* Josh Yule
+* [Tiya Pertiwi](https://tiyaprtw.github.io/interactive-foundations/)
+* [Divtesh Singh Pannu](https://divtesh.github.io/interactive-foundations/)
+* [Jasmine Wong](https://jazong.github.io/interactive-foundations/)
+* [Josh Yule](https://yulebesorry.github.io/interactive-foundations/)

@@ -1,0 +1,37 @@
+Title: Inspector Sketches
+
+----
+
+Project: 0
+
+----
+
+Text:
+
+To familiarize ourselves with HTML and CSS, we’re going to dive into the code of existing websites, and “hack” them.
+
+Your most helpful tool in coding is going to be the “Inspector.” Learning to use this tool will provide key insights into how your browser is reading the HTML/CSS that you write.
+
+In this exercise, we’ll be using Google Chrome for its inspector tools. Firefox and Safari also have this function available as well, but the Chrome inspector has many useful features.
+
+Don’t worry about breaking anything! What you see in your browser is just your version of HTML that is displayed at that time. Messing with things with the inspector won’t change anything other site visitors will see. If you want to start over, simply refresh the page.
+
+We’ll do this short exercise in pairs.
+
+**Instructions Part 1**
+
+Person 1 shares their screen and opens a website recently visited. Right-click to “Inspect Element.” Try to find the stylesheet and styles attached to the site, and remove them by removing them from the “Elements” view on your Inspector. 
+
+Explore the site without CSS /styling, and try to understand the browser’s default styling properties are revealed with each HTML tag. Work with your partner to discover these elements.
+
+Then, repeat with Person 2.
+
+**Instructions Part 2**
+
+Without sharing screens, individually:
+
+Using the site you chose, use the inspector to not only remove styles, but try adding additional styles to override the existing styles. Try to create a new look and feel for the site they gave you.
+
+Then, share your “hacked” site with your partner through a screenshare.
+
+Also, be sure to take a screenshot of your result, and save it as an image to link to from your class website.

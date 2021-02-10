@@ -1,0 +1,56 @@
+Title: Week 2
+
+----
+
+Order: 2
+
+----
+
+Topic: Drawing in the Browser
+
+----
+
+Dates: 2/3
+
+----
+
+Doc: 
+
+----
+
+Text: 
+
+## In-Class
+* Share: Outcomes from [Collective Alphabet](/projects/collective-alphabet)
+* Exercise: [Inspector Sketches](/projects/inspector-sketches)
+* Review: [CSS Typeface](/projects/css-typeface) Step 1 – letterform directions
+* Exercise: [Personalize Your Class Site](/projects/class-site-css)
+* Demo: [CSS Still Life](/projects/css-still-life)
+	
+
+## For Next Week
+
+###Project
+* Add your screenshot from your [Inspector Exercise](/projects/inspector-sketches) to your class site
+* Add a CSS file to your class site to begin personalizing your class site — try out some of the various properties discussed in the Lectures
+* Complete a warm-up exercisee in the browser with the [CSS Still Life Exercise](/projects/css-still-life) and upload it to your class site
+* Based on one of your type directions, try translating at least one of them into code, and design **10** letters in Figma. (See [CSS Typeface](/projects/css-typeface) Step 2.) Provide a link to your code, as well as your Figma sketch, on your class site.
+
+
+###Lectures
+
+* [Intro to CSS](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea9279a3-1514-46a5-9dc6-acc2001beb37) (17:16)
+* [CSS Selectors](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bcccc27e-603e-443e-a29a-acc2001bea8c) (21:32)
+* [CSS Colors](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89b37107-6205-43bf-9fb1-acc2001bea5d) (03:52)
+* [CSS Box Model](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b405d668-e62a-4a61-a3b5-acc2001beac8) (25:30)
+* [CSS Position](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f7d1e009-395c-41c0-a803-acc300837bdf) (14:49)
+
+###Tutorials
+* Codecademy: [Learn CSS 1: Selectors and Visual Rules](https://www.codecademy.com/learn/learn-css) 
+
+###Reading
+* Read [My website is a shifting house next to a river of knowledge. What could yours be?](/library/shifting-house) by Laurel Schwulst and [The Poetry of Tools](/library/poetry-of-tools) by Mindy Seu post a comment/question and reply to one of your classmates posts on [Moodle](https://moodle.cca.edu/mod/forum/discuss.php?d=32285).
+
+----
+
+Current: 0

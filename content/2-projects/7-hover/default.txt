@@ -1,0 +1,48 @@
+Title: :hover states
+
+----
+
+Project: 0
+
+----
+
+Text:
+
+Since the inception of the personal computers, our main interactions with the digital world have been through a desktop interface. A metaphorical workspace where a mouse pointer is our primitive avatar, a waste paper basket is a digital recycling bin, and our ‘files’ are stored in ‘folders’. With massive adoption of touch devices, the desktop interface may soon be a thing of the past—a blip on the digital interaction timeline. As we move to this new touch interaction model, it’s curious to consider what interactions and metaphors will no longer be relevant and forgotten.
+
+This exercise asks you to investigate the desktop interface, specifically through its unique interaction of the hover state. Hover states are considered a ‘pseudo state’, something explicitly thought of as in-between. They occur when your mouse cursor is positioned above another element on the page and act as an on/off switch with only one level of interaction. Even with these limited capabilities, they’ve become a key aspect of desktop web design.
+
+
+### Instructions
+1. Pull the latest demo code from our [interactive-demos](https://github.com/marieotsuka/interactive1-s21-demos/tree/main/week-3). Navigate to `week-3/hover-states`
+2. Copy the files into your own repository, and use the notes in the demo file to do the following:
+  * Change the case of text (U&lc, ALL CAPS, etc.)
+  * Fade-in an element.
+  * Move an element using translate.
+  * Blur an element.
+  * Rotate an element and change its color.
+3. Working in pairs, use your [CSS Still Life](/projects/css-still-life) as a starting point, and think about how you would interact with it your objects in the digital world (How would a digital pen leave a mark? Eyeglasses bring things in or out of focus? A digital clock notify you of the sunsetting? How would you change your cursor to demonstrate this idea?). Create a rollover interface to explore this notion.
+4. Add link to your ”moving” still-life on your class website.
+
+
+###Resources
+* [:hover](http://www.w3schools.com/cssreF/sel_hover.asp)
+* [CSS Cursors](https://css-tricks.com/almanac/properties/c/cursor/)
+* [Using CSS Cursors](https://css-tricks.com/using-css-cursors/)
+* [Animate.CSS](https://daneden.github.io/animate.css/)
+* [Gradient Animator](https://www.gradient-animator.com/)
+* [:nth-child](https://css-tricks.com/almanac/selectors/n/nth-child/)
+* [CSS selectors on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+* [CSS Filter on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
+* [CSS Transform on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+
+###References
+* [rojanasakul.com/interpretation.php](http://rojanasakul.com/interpretation.php)
+* [collectie.hetnieuweinstituut.nl/en](http://collectie.hetnieuweinstituut.nl/en)
+* [www.praneetsoi.info](http://www.praneetsoi.info/)
+* [www.andrewherzog.com](http://www.andrewherzog.com/)
+* [thewilderness.space](http://thewilderness.space/)
+* [www.colorflip.com](http://www.colorflip.com/)
+* [common-room.net](http://common-room.net/)
+* [newrafael.com](https://www.newrafael.com/websites/)
+

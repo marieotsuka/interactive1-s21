@@ -179,16 +179,21 @@ ol li ol li{
   list-style-type: lower-alpha;
 }
 
+ol li ul li {
+    list-style-type: none;
+    margin-left: 30px;
+}
+
 /* list reset */
 
-ul.calendar>li::before, .Resources ul li::before, ul.library li::before, #menu li::before, .people li::before, .exercises li::before {
+ul.calendar>li::before, ul.library li::before, #menu li::before, .people li::before, .exercises li::before {
   display: none;
   width: 0px;
   margin-left: 0px;
   content: '';
 }
 
-ul#menu li, .Resources ul li, ul.library li {
+ul#menu li, ul.library li {
   padding-left: 0px;
 }
 
@@ -210,7 +215,7 @@ ul#menu li, .Resources ul li, ul.library li {
 }
 
 
-.links li a, .people li, .exercises li a, .Resources .main li a{
+.links li a, .exercises li a{
   display: inline-block;
   text-decoration: none;
   border: 1px solid #222;
@@ -218,7 +223,7 @@ ul#menu li, .Resources ul li, ul.library li {
   padding: 10px 14px;
 }
 
-.links li a:hover, .people li:hover, .Resources .main li a:hover{
+.links li a:hover{
   background: var(--highlight-color-light);
   color: black;
 }
@@ -512,9 +517,6 @@ li.library-row div {
   margin: 0px;
 }
 
-.Resources .main li {
-  display: inline-block;
-}
 
 /* -----  Footer  ---------------------------------------- */
 

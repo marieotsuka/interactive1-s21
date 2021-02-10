@@ -32,7 +32,7 @@ Text:
 ### Project
 * Based on what you learn from the lectures and tutorials, experiment with building out your class site. (You will be developing your class site throughout the semester.) Post a link on [Class Sites Thread](https://moodle.cca.edu/mod/forum/discuss.php?d=30475) on Moodle.
 * Do the Exercise [Collective Alphabet](/projects/collective-alphabet), then create a new Figma file and make two new modular designs for your letterforms. See [CSS Typeface](projects/css-typeface) Step 1 for details.
-
+* Lecture on [Jurriaan Schrofer](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aec62db-4c5a-4ca8-9d92-acbe01754cc0) by Chris Hamamoto for additional reference
 
 ### Lectures
 <p class="caption">Note: You may want to watch some of these at 1.5x speed.</p>
@@ -41,7 +41,6 @@ Text:
 * [HTML Basics](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93810cbf-d250-4e30-95a3-acba01690169)
 * [HTML Paths](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a0b263a-7119-4e6b-83da-acba016900ed)
 * [The Web Inspector](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=10c4fd43-d283-4e9d-ab12-acbb0052f093)
-
 
 ### Tutorials
 * Codecademy: [HTML Elements and Structure](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements) (sign up for the basic/free account)

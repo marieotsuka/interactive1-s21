@@ -1,0 +1,63 @@
+Title: Personalize Your Class Site
+
+----
+
+Project: 0
+
+----
+
+Text:
+
+To become familiar with CSS stylesheets and links, we’ll add CSS to our personal class sites, and link to the results of our first exercises: “Inspect Element”.
+
+**Instructions Part 1**
+
+First we’ll link to the outcome of our “Inspect Element” exercise.
+
+Locate your screenshot from the “Inspect Element” exercise, and put it in the “root” of your class site repository.
+
+Open the index.html file in the same folder and locate the following code:
+
+```
+<h3>Exercises</h3>
+      <ul>
+        <li><a href="#">EX 1</a></li>
+      </ul>
+```
+
+In between the “” marks following the `href` attribute in the `<a>` tag, put the filename of your screenshot. Then in between the opening and closing `<a>` tags, change “EX 1” to “Inspector Sketches”. Your could should look like this:
+
+```
+<h3>Exercises</h3>
+      <ul>
+        <li><a href="screenshot_….png">Inspector Sketches</a></li>
+      </ul>
+```
+
+Now when you open your class site, you should be able to click to your screenshot!
+
+**Instructions Part 2**
+
+Next we’ll add CSS to our personal sites so we can begin styling them.
+
+In your class site repository folder create a new folder titled “css”. In Sublime text, create a new file and save it as “style.css” within this folder.
+
+In your css folder, add the following code:
+
+```
+body { background: pink; }
+```
+
+And save the file.
+
+In your the index.html file at the “root” of your class site repository, add the following code:
+
+```
+<link rel="stylesheet" type="text/css" href="css/style.css">  
+```
+
+This will link the CSS file you just created to your index.html file. If everything is done correctly, your page should now be pink!
+
+***
+
+Continue to play around with the styling of your personal landing page to personalize it to your tastes and aesthetics.

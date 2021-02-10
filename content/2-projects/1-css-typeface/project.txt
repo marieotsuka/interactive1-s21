@@ -41,29 +41,32 @@ When it is time to create the website to display your typeface, consider its sub
 Parametric design and modular type discussion
 
 **Step 1: Due Weds Feb 3**
-To get started, first complete a sketch of 2 letters in BW for the [Collective Alphabet Exercise](/projects/collective-alphabet) which will act as inspiration for the project.
+To get started, first complete a sketch of 2 letters in Black & White for the [Collective Alphabet Exercise](/projects/collective-alphabet) which will act as inspiration for the project.
 
-Based on this exercise create two unique _modular_ directions for each of your “Collective Alphabet” characters in graphics in a new Figma file. This means 4 designs total. Each character can reuse a concept, or have a totally unique design. 
-For this part, the typeface need not be grid-based (based off of a square grid,) but should be reusing a limited kit of parts to construct its forms. 
+Based on this exercise create two unique _modular_ directions for each of your characters in a new Figma file, each with a different “state” or variation. This means 4 designs total. Each character can reuse a concept, or have a totally unique design. For this part, the typeface need not be grid-based (based off of a square grid,) but should be reusing a limited kit of parts to construct its forms. 
 
 Please post a link to your Figma file with your alphabet concepts on your class website.
 
 
 **Step 2: Due Weds Feb 10**
-Based on feedback of your two directions, select one for your typeface. Complete your typeface drawing in Figma as much as possible, then begin building your letters in HTML and CSS. Here are the characters I would like you to have:
+Based on feedback of your two directions during class, select one for your typeface. Begin building at least one of your letters in HTML and CSS. Then, revise your design if needed, and complete 10 letters in Figma.
 
-either: abcdefghijklmnopqrstuvwxyz
-or: ABCDEFGHIJKLMNOPQRSTUVWXYZ
-as well as: 0123456789 (numbers) and .?!,”“ (punctuation)
+Here are 5 required letters (upper or lowercase): `n` `o` `d` `a` `e`
+Choose an additional 5 letters of your choice.
+
+You may find yourself adjusting the design of your letters in the code — that is ok! Consider how this design plays out across your other letters as you develop the alphabet in Figma. The design need not be strictly “grid” based, but think about how you can create a modular design, re-using a kit of parts, and keeping consistent with your design system / logic.
+
+Please post a link to your Figma file as well as a link to your code on your site.
+
 
 **Step 3: Due Weds Feb 17**
-Finalize your proposal (using InDesign, Figma, or another sketching tool) for the website your typeface will live on. How can your website’s focus not only reinforce but push forward the concept of your typeface? Remember to upload the sketches to your class website.
-* Ask yourself: What makes a typeface specific to the screen or the web?
-* Think about your typeface in two states. (How does your typeface "breathe"?)
-* Think about what your typeface would do if it were a screen saver.
+Complete all ten letters (at the very least) in the browser with additional “states”. Prototype your type specimen page as well; consider the design of the full page.
 
-**Step 4: Final Crit Weds Mar 3**
-Present a final website containing typeface and showcasing its unique character. 
+* Ask yourself: What makes a typeface specific to the screen or the web?
+* Think about your typeface in two states. (How does your typeface “breathe”?)
+* How do you “pace” the site, featuring different aspects of the typeface on your site? Play with scale and layout, potentially incorporating another typeface to pair.
+
+
 
 ###Calendar
 
@@ -77,18 +80,12 @@ Typeface refinement
 Step 1 Due
 
 Week 3
-Specimen Design + Rough HTML/CSS
+Rough HTML/CSS + Specimen prototype
 Step 2 Due
 
 Week 4
-Rough HTML/CSS
+HTML/CSS + Specimen development
 Step 3 Due
-
-Week 5
-Semi-Final HTML/CSS
-
-Week 6
-Step 4 Due / Final Crit
 ```
 
 ### Relevant Readings
@@ -96,9 +93,8 @@ Step 4 Due / Final Crit
 * (link: /library/original_copies text: 10,000 Copies popup: yes), by Kris Sowersby
 * (link: /library/poetry_of_tools text: The Poetry of Tools popup: yes), by Mindy Seu
 
-
 ###Resources
-* ...
+* (link: https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aec62db-4c5a-4ca8-9d92-acbe01754cc0 text: Lecture on Jurriaan Schrofer popup: yes) by Chris Hamamoto
 
 ###References
 * (link: https://yuinchien.com/projects/max/ text: Max popup: yes) by Yuin Chien
