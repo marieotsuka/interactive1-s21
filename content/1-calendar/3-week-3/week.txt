@@ -31,7 +31,7 @@ Text:
 ###Project
 
 * Complete Step 3 for your [CSS Typeface](/projects/css-typeface)
-* Complete the [:hover States](/projects/hover) and upload it to your class site. Post a link to your sketch on your class website.
+* Complete the [:hover states exercise](/projects/hover) and upload it to your class site. Post a link to your sketch on your class website.
 
 ###Lectures
 
@@ -39,7 +39,7 @@ Text:
 * [CSS Units](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6655a1b2-4b8f-4128-bc95-acc20170921c) (18:40)
 * [CSS Transitions](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=175510ae-b92c-4017-bcda-acca0134638c) (06:23)
 * [CSS Transformations](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2f5aa60-e510-42cc-a377-acca0134642c) (05:08)
-* [CSS Flexbox](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01e1b2a8-06af-4297-a4f7-acca01785f9a)(9:40)
+* [CSS Flexbox](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01e1b2a8-06af-4297-a4f7-acca01785f9a) (9:40)
 
 
 ###Tutorials
@@ -47,7 +47,7 @@ Text:
 
 
 ###Reading
-* Read [Computed Type](/library/computed-type) by Christoph Knoth and [The Conditional Design Manifesto](/library/conditional-design) by Studio Moniker post a comment/question and reply to one of your classmates posts in the Moodle board.
+* Read [Computed Type](/library/computed-type) by Christoph Knoth and [The Conditional Design Manifesto](/library/conditional-design) by Studio Moniker post a comment/question and reply to one of your classmates posts in the [Moodle thread](https://moodle.cca.edu/mod/forum/discuss.php?d=34754).
 
 
 ----

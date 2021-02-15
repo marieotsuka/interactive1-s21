@@ -7,40 +7,67 @@ Text:
 
 ##Lectures
 * [Intro to WWW](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=242387eb-ab8e-43b6-88c2-acba002ab61c)
+<div class="caption">An overview of how the Internet works</div>
 * [Intro to HTML](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=643a5146-73f7-4293-b6c2-acba00429e30)
-* [Juraiaan Schrofer](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aec62db-4c5a-4ca8-9d92-acbe01754cc0)
-* [:hover States](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ddfdb85-3290-4192-a8ca-acca013463d6)
+<div class="caption">An introduction to </div>
+* [Jurriaan Schrofer](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aec62db-4c5a-4ca8-9d92-acbe01754cc0)
+<div class="caption">A lecture on modular designs by Jurriaan Schrofer</div>
+* [Introduction to :hover](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb417154-8e4d-4ddb-ab0e-accf0140bbbc)
+<div class="caption">Introduction to :hover (in-class demo)</div>
 
 ## HTML Demos
+
 * [HTML Basics](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93810cbf-d250-4e30-95a3-acba01690169)
+<div class="caption">How to setup a basic html page, simple html tags including h1, h2, h3, h4, h5, h6, p, ol, ul, li </div>
 * [HTML Paths](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a0b263a-7119-4e6b-83da-acba016900ed)
+<div class="caption">Relative and absolute links, and how to construct them, directory structures, what the / means in a URL</div>
 * [Images and Assets](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bdc1b86-2124-45d0-9372-acba016900b4)
+<div class="caption"> Adding images and other media on your webpages: img, audio, video</div>
 * [The Web Inspector](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=10c4fd43-d283-4e9d-ab12-acbb0052f093)
+<div class="caption">Features of the Chrome Inspector</div>
 
 ## CSS Demos
+
 * [Intro to CSS](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea9279a3-1514-46a5-9dc6-acc2001beb37)
+<div class="caption">How to setup your CSS, linking to an external stylesheet</div>
 * [CSS Selectors](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bcccc27e-603e-443e-a29a-acc2001bea8c)
+<div class="caption">How to target your elements in CSS, associating your style declarations with your HTML</div>
 * [CSS Colors](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89b37107-6205-43bf-9fb1-acc2001bea5d)
-* [CSS Box Model](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b405d668-e62a-4a61-a3b5-acc2001beac8) 
+<div class="caption">How to express color in CSS: hexadecimal, rgb</div>
+* [CSS Box Model](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b405d668-e62a-4a61-a3b5-acc2001beac8)
+<div class="caption">Inline vs. Block elements, spans, divs, and characteristics of the box model: margin, padding, width, height</div>
 * [CSS Position](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f7d1e009-395c-41c0-a803-acc300837bdf)
+<div class="caption">Using absolute, relative, and fixed positioning</div>
 * [CSS Units](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6655a1b2-4b8f-4128-bc95-acc20170921c)
+<div class="caption">How units work in CSS: px, em, rem, vw, vh, %</div>
 * [CSS Transitions](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=175510ae-b92c-4017-bcda-acca0134638c)
+<div class="caption">Using CSS transitions: how to make changes occur over time</div>
 * [CSS Transformations](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2f5aa60-e510-42cc-a377-acca0134642c)
+<div class="caption">Using CSS transforms: scale, translate, rotate, skew</div>
 * [CSS Flexbox](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01e1b2a8-06af-4297-a4f7-acca01785f9a)
+<div class="caption">Introduction to using flexbox, display:flex</div>
+* [:hover States](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ddfdb85-3290-4192-a8ca-acca013463d6)
+<div class="caption">How to use the pseudo-class :hover</div>
+* [CSS Typography Part 1](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a278b7e-e9e0-4b86-ada3-acc300839c7a)
+<div class="caption">Basic type settings: font-weight, font-style, letter-spacing, line-height, text-decoration, text-align</div>
+* [CSS Typography Part 2](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc842106-39b1-4bb1-a803-acc300839a01)
+<div class="caption">Specifying a font: a font stack, fall backs, webfont file formats, @font-face, webfont distributors</div>
 * [CSS Backgrounds](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=470e3a94-6695-4b27-b8ab-acc201712387)
+<div class="caption">Working with background images, CSS layer effects, mix-blend-mode and background-blend-mode</div>
 
 ##Troubleshooting
 Try to be patient when writing code, so much of programming is debugging – typos are one of the most common errors! If you find yourself stuck, try breaking your issue down into smaller, more manageable parts. 
 
-Search Google or (link: http://stackoverflow.com/ text: Stack Overflow popup: yes) for how to solve those parts, one at a time. While frustrating, these bugs will may lead yout o discover something new you would not have considered before! 
+Search Google or (link: http://stackoverflow.com/ text: Stack Overflow popup: yes) for how to solve those parts, one at a time. While frustrating, these bugs will may lead you to discover something new you would not have considered before! 
 
 ##Naming
 Because of the way special characters and spaces are treated in URLs, it’s best to avoid them when naming files and folders for web. It’s also recommended to use all lowercase, because of the way some systems may or may not be case-sensitive. 
-* `Filename Final.jpg` --> `filename-final.jpg`
+* Rename `Filename Final.html` → `filename-final.html`
 
 ##Downloads
 * To edit code, download (link: http://www.sublimetext.com text: Sublime Text popup: yes).
-* For Browsing the web and viewing our pages, use (link:https://www.google.com/chrome/ text: Google Chrome) (we’ll use Chrome exclusively because of its devtools).
+* For Browsing the web and viewing our pages, use (link:https://www.google.com/chrome/ text: Google Chrome)
+<div class="caption">we’ll use Chrome exclusively because of its devtools)</div>
 
 ##Online Tools
 * (link: http://figma.com text: Figma popup: yes) for image/media generating, editing, and prototyping 
@@ -70,7 +97,8 @@ While much of the information is available online, it's always nice to have a ha
 
 * [HTML & CSS](http://www.htmlandcssbook.com/) | [Javascript & JQuery](http://www.javascriptbook.com/) by Jon Duckett
 * [CSS: The Definitive Guide](http://shop.oreilly.com/product/9780596527334.do) by Eric Meyer
-* [Eloquent Javascript](http://eloquentjavascript.net/) (Available for free online)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+<div class="caption">Available for free online</div>
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) by Scott Murray (Available for free online)
 
 ## Basic reading
@@ -129,7 +157,8 @@ While much of the information is available online, it's always nice to have a ha
 * [Paragraph Formatting on the Web](http://v1.jontangerine.com/silo/typography/p/)
 * Character sets: HTML [Entities](http://Symbols) and [Character Codes](http://www.w3schools.com/charsets/ref_html_utf8.asp)
 * [Web Font Formats](http://www.smashingmagazine.com/2011/03/the-font-face-rule-revisited-and-useful-tricks/#web-font-formats)
-* [Font-squirrel’s Web Font generator](http://www.fontsquirrel.com/tools/webfont-generator) (if you have web rights).
+* [Font-squirrel’s Web Font generator](http://www.fontsquirrel.com/tools/webfont-generator)
+<div class="caption">if you have web rights)</div>
 
 ### Webfont distributors:
 * [TypeKit](https://typekit.com/fonts)
