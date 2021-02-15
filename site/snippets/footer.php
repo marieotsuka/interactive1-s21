@@ -2,10 +2,10 @@
   Interactive 1<br />
 	GRAPH-2120-2<br />
 	Online<br />
-	W 8:00-11:00am PST<br />
+	W 8-11am PST<br />
 	Instructor: <a href="mailto:motsuka@cca.edu">Marie Otsuka</a><br />
 	TA: <a href="mailto:sophia0320@cca.edu">Sophia Kang</a><br />
-  <a href="https://docs.google.com/spreadsheets/d/1oeaE0FIspZzPnjccBqPXRsesNEiFkhOHEpj-z_hJV84/edit?usp=sharing">Office Hours</a>: F 1:00pm–2:00pm
+  <a href="https://docs.google.com/spreadsheets/d/1oeaE0FIspZzPnjccBqPXRsesNEiFkhOHEpj-z_hJV84/edit?usp=sharing">Office Hours</a>: F 1-2pm
 
     <p class="footer-copyright"><?php
         // echo html::decode($site->copyright()->kirbytext())

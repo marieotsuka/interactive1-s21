@@ -14,15 +14,15 @@ This exercise asks you to investigate the desktop interface, specifically throug
 
 
 ### Instructions
-1. Pull the latest demo code from our [interactive-demos](https://github.com/marieotsuka/interactive1-s21-demos/tree/main/week-3). Navigate to `week-3/hover-states`
-2. Copy the files into your own repository, and use the notes in the demo file to do the following:
+1. Pull the latest demo code from our [interactive-demos](https://github.com/marieotsuka/interactive1-s21-demos/tree/main/week-3) repository. Navigate to `week-3/hover-states`
+2. Copy the files into your own repository, and study the notes in the demo file to do the following:
   * Change the case of text (U&lc, ALL CAPS, etc.)
   * Fade-in an element.
   * Move an element using translate.
   * Blur an element.
   * Rotate an element and change its color.
 3. Working in pairs, use your [CSS Still Life](/projects/css-still-life) as a starting point, and think about how you would interact with it your objects in the digital world (How would a digital pen leave a mark? Eyeglasses bring things in or out of focus? A digital clock notify you of the sunsetting? How would you change your cursor to demonstrate this idea?). Create a rollover interface to explore this notion.
-4. Add link to your ”moving” still-life on your class website.
+4. Add link to your “moving” still-life on your class website.
 
 
 ###Resources
