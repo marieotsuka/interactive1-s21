@@ -166,7 +166,7 @@ People:
 * [Weeland Huang](https://weeland.github.io/interactive-foundations/)
 * [Rosie Linares Díaz](https://rossie111.github.io/interactive-foundations/)
 * [Krishnaa Nair](https://krishnaa18.github.io/interactive-foundation/)
-* Owen Newman
+* [Owen Newman](https://owennewman.github.io/interactive-foundations/)
 * [Tiya Pertiwi](https://tiyaprtw.github.io/interactive-foundations/)
 * [Divtesh Singh Pannu](https://divtesh.github.io/interactive-foundations/)
 * [Jasmine Wong](https://jazong.github.io/interactive-foundations/)
