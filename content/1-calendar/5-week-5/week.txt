@@ -1,0 +1,52 @@
+Title: Week 5
+
+----
+
+Order: 5
+
+----
+
+Topic: Personalized Type
+
+----
+
+Dates: 2/24
+
+----
+
+Doc: 
+
+----
+
+Text: 
+
+## In-Class
+* CSS Typeface Final Crit
+* Review plan for next week
+* Introduce [Project 2: Community Archive](/projects/community-archive)
+* In-class demo: Personalize Your Typography
+
+## For Next Week
+
+### Project
+
+* Begin [Project 2: Community Archive](/projects/community-archive), Step 1
+
+### Lectures
+
+* [CSS Typography Part 1](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a278b7e-e9e0-4b86-ada3-acc300839c7a)
+* [CSS Typography Part 2](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc842106-39b1-4bb1-a803-acc300839a01)
+
+### Tutorials
+* Codecademy: [Lesson: CSS Typography](https://www.codecademy.com/learn/learn-css/modules/learn-css-typography)
+
+### Reading
+
+* Read [Tools for Cultural Production: Archiving Voice, Culture, and Community](/library/tools-cultural-production) by Omar Mohammad and post a comment/question and reply to one of your classmates posts in the [Moodle thread](https://moodle.cca.edu/mod/forum/discuss.php?d=34754).
+* Explore the work of [Shiraz Abdullahi Gallab](https://shirazn.es/): [headgear](http://headgear.pw/)
+<div class="caption">Shiraz will visit us for a Zoom-based workshop next week! We’ll explore the role of language, narrative, and technology in a creative practice.
+</div>
+
+----
+
+Current: 0

@@ -67,6 +67,15 @@ Complete all ten letters (at the very least) in the browser with additional “s
 * How do you “pace” the site, featuring different aspects of the typeface on your site? Play with scale and layout, potentially incorporating another typeface to pair.
 
 
+**Step 4: Due Weds Feb 24**
+Refine your letters and the design of the full website. You must have a live, functional link to present for the final crit.
+
+* What is the name of your typeface?
+* How would you describe your typeface?
+* How might you feature your favorite letter?
+* Is there an “about” section?
+* How does it take advantage of the “:hover” state?
+
 
 ###Calendar
 
@@ -86,10 +95,14 @@ Step 2 Due
 Week 4
 HTML/CSS + Specimen development
 Step 3 Due
+
+Week 5
+HTML/CSS + Specimen Final
+Due
 ```
 
 ### Relevant Readings
-* (link: library/computed_type text: Computed Type popup: yes), by Christoph Knoth
+* (link: /library/computed_type text: Computed Type popup: yes), by Christoph Knoth
 * (link: /library/original_copies text: 10,000 Copies popup: yes), by Kris Sowersby
 * (link: /library/poetry_of_tools text: The Poetry of Tools popup: yes), by Mindy Seu
 

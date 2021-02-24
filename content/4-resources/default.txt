@@ -7,16 +7,15 @@ Text:
 
 ##Lectures
 * [Intro to WWW](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=242387eb-ab8e-43b6-88c2-acba002ab61c)
-<div class="caption">An overview of how the Internet works</div>
-* [Intro to HTML](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=643a5146-73f7-4293-b6c2-acba00429e30)
-<div class="caption">An introduction to </div>
+<div class="caption">An overview of how the context of the internet</div>
 * [Jurriaan Schrofer](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aec62db-4c5a-4ca8-9d92-acbe01754cc0)
 <div class="caption">A lecture on modular designs by Jurriaan Schrofer</div>
 * [Introduction to :hover](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb417154-8e4d-4ddb-ab0e-accf0140bbbc)
 <div class="caption">Introduction to :hover (in-class demo)</div>
 
 ## HTML Demos
-
+* [Intro to HTML](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=643a5146-73f7-4293-b6c2-acba00429e30)
+<div class="caption">An introduction to how web pages works, the html file format, markup languages</div>
 * [HTML Basics](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93810cbf-d250-4e30-95a3-acba01690169)
 <div class="caption">How to setup a basic html page, simple html tags including h1, h2, h3, h4, h5, h6, p, ol, ul, li </div>
 * [HTML Paths](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a0b263a-7119-4e6b-83da-acba016900ed)

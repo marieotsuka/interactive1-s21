@@ -1,0 +1,100 @@
+Title: P2 Community Archive
+
+----
+
+Project: 1
+
+----
+
+Meta:
+
+----
+
+Text: 
+
+In this project, you will create a single-serve site as an events archive for a community you care about. You might document real past events for an existing organization; alternatively, you might define some ideal speculative events that may not have happened yet.
+ 
+In this process, you will develop an expressive typographic identity system for your events archive. This system will play out in four different compositions within the page — each containing different content types.
+We will experiment with ways to activate the typography through the browser.
+
+* How does the typography and interactive states express the theme of the events?
+* What information might be important to include for the community?
+* What kind of gestural metaphors can you use? How does motion express an idea?
+
+
+### Learning Outcomes
+
+* Develop skills for typographic display on the screen
+* Work with variations on a theme, balancing consistency and contrast
+* Experiment and expand the range of typographic expression, including scale variation, typefaces choice, hover-states
+* Fluency in CSS for laying out of text content
+* Fluency in CSS positioning, transformations, and animations
+* Plan for fluid containers and adaptable designs, both aesthetically and structurally
+
+### Requirements
+
+* Each section should be at minimum 100vw x 100vh 
+* Designs should be primarily typographic
+* Implement at least one animating element that aligns with the concept of the site
+
+### Project
+
+**Project Kickoff: Weds Jan 27**
+Typographic Identity and Web Design
+
+
+**Step 1: Due Weds March 3**
+First, let’s collect the content for your site. Whether you are researching real events, or creating speculative events, define the text for the following:
+
+1. Landing section
+- This feels like the “cover” of your book — consider this section as an opening expressive graphic event
+
+2. Schedule
+- How might you design a list of events? What are some alternatives to time-based listing?
+- Document the details of 6 – 12 events related to your community.
+	- Each event must have: Date / time, Title, Description
+	- Include at least one other relevant meta data — think of how the information you’re presenting aligns with the content of your site
+- What is the appropriate hiearchy of information for these events?
+
+3. About 
+- What is the background information behind the community?
+
+
+Second, begin sketching out your typographic choices for the design of your site. Using the `/week-5/section2-sketch/` sketch demo in our [demos repository](https://github.com/marieotsuka/interactive1-s21-demos/tree/main/week-5/section2-sketch) as a basis, explore at least 3 different typographic directions for your website. In at least one sketch, use a self-hosted webfont using the @font-face rule.
+
+
+###Calendar
+
+```
+Week 5
+Step 1: Project kickoff
+Content collection
+Design exploration
+
+Week 6
+Step 2: Prototype of Events section
+Step 1 Due
+
+Week 7
+Step 3: Refined events section, additional sections
+Step 2 Due
+
+Week 8
+Step 4: Incorporate animations
+Step 3 Due
+
+Week 9
+Refinement
+Step 4 Due 
+
+Week 10
+Final Crit
+Due
+```
+
+### Relevant Readings
+* (link: /library/tools-cultural-production text: Tools for Cultural Production: Archiving Voice, Culture, and Community popup: yes), by Omar Mohammad
+
+### Reference
+
+* [CCA.gd](https://cca.gd/)

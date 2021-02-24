@@ -20,7 +20,14 @@
 
 
     <h1 id="ex-title">Exercises</h1>
-
+    <p>You should have the following links from your class website:
+    </p>
+    <ul>
+      <li>Collective Alphabet</li>
+      <li>Figma Sketches for Project 1</li>
+      <li>Inspector Exercise Screenshot</li>
+      <li>CSS Still Life with :hover state</li>
+    </ul>
     <ul class="exercises">
     <?php foreach($page->children()->visible()->filterBy('project', '0')->sortBy('title') as $text): ?>
       <li class="project-row">

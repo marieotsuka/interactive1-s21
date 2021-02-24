@@ -1,0 +1,42 @@
+Title: Week 4
+
+----
+
+Order: 4
+
+----
+
+Topic: Review & Catch Up
+
+----
+
+Dates: 2/17
+
+----
+
+Doc: 
+
+----
+
+Text: 
+
+## In-Class
+* Review class approach, Moodle Update
+* Letterform and hover review
+* 1:1 Reviews
+
+## For Next Week
+
+###Project
+
+* Work on completing your [CSS Typeface](/projects/css-typeface) Project
+* Make sure you have all previous [Exercises](/projects/) linked from you Class Website
+
+###Overall
+* Catch up on any missing assignments — Codecademy tutorials, video lectures, and readings
+* Complete the [Feedback Survey on Moodle](https://moodle.cca.edu/mod/feedback/view.php?id=83728)
+
+
+----
+
+Current: 0
