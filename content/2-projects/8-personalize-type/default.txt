@@ -1,0 +1,85 @@
+Title: Personalize your typography
+
+----
+
+Project: 0
+
+----
+
+Text:
+
+Typography on the web today is as rich as in any other medium. Gone are the days of low-resolution screens with limited rendering capabilities, and restrictive ‘system-font’ library limitations. Today we can use almost any font in print online, with many new forms of expression being enabled by new developments in web typography.
+
+In order to get a better understanding of typography on the web, we will use the CSS `@fontface` property, and/or a web font service, to add a web font to our sites.
+
+**Instructions**
+First, we’ll download an open source web font and link it to our websites using the @fontface CSS property. Go to one of the Open Source font distribution sites, and locate a web font you are interested in using one of the following:
+
+Follow their instructions to download their web font files.
+
+Create a new folder at the `assets` folder at the `root` of your site titled `fonts` (assets>fonts) and copy your downloaded font files there. You can identity web fonts by their extensions, which are “woff”, “woff2”, and “eot”. These are determined by the computer and font companies to maintain security and work with various OS. If you have multiple web font formats for your selected font, copy them into your `fonts` folder.
+
+Your folder should have something like the following files inside:
+
+```
+AUTHENTICSans-90.woff
+AUTHENTICSans-90.woff2
+```
+
+Now that you have your font files, you’ll need to load them into your CSS. Open your class site CSS file add the following code to the very top:
+
+```
+@font-face {
+  font-family: "font-name";
+  src: url("the-path-to-your-font") format("font-format"),
+       url("the-path-to-your-font") format("font-format");
+}
+```
+
+Replacing font-name, the-path-to-your-font, and font-format with the appropriate information (what you’d like to call your font, where it is in relation to your CSS file, and its format). For more information on these attributes reference [@fontface on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face) and [@fontface on W3Schools](https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp). You can give your font-name whatever name you like, you’ll use it to reference your web font later in your doc.
+
+Next, let’s use your typeface. Adjust the `body` tag to use your font-family like so:
+
+```
+body {
+	font-family: ‘font-name’, Arial, "Helvetica Neue", Helvetica, sans-serif;
+	… your other css...
+}
+```
+
+Note: the fonts in the font-family value are backups if your `font-name`, or the previous listed font, can’t be loaded – read more [here](https://www.cssfontstack.com/).
+
+Experiment with applying custom fonts to your website and once you’re happy with the result, upload your changes to Github and share a link to your class site on the #weekly-updates channel in Slack.
+
+**Optional: Use a font hosting service to add a web font**
+
+There are many resources that make using web fonts even easier to use. Try following the instructions on [Google Fonts](https://fonts.google.com/), or [Adobe Fonts](https://fonts.adobe.com/) to use a web font they host on your class website.
+
+
+### Open Source Fonts
+* [VTF](https://velvetyne.fr/)
+* [FreeFontLibrary](https://typotheque.luuse.fun/)
+* [Google Fonts](https://fonts.google.com/)
+* [open source typefaces on are.na](https://www.are.na/frederic-brodbeck/open-source-typefaces)
+* [Open Foundry](https://open-foundry.com/fonts/bagnard_sans_regular)
+* [Future Fonts](https://www.futurefonts.xyz/)
+* [Use & Modify](http://usemodify.com/)
+* [Collletttivo](http://collletttivo.it/)
+* [⚧ LIBRE FONTS BY WOMXN](https://www.design-research.be/by-womxn/)
+* [OSP Kitchen](http://osp.kitchen/)
+* [League of Movable Type](https://www.theleagueofmoveabletype.com/manifesto)
+* [Font Squirrel](https://www.fontsquirrel.com/) and their [webfont generator](http://www.fontsquirrel.com/tools/webfont-generator)
+
+
+### References
+
+* [Google Fonts Korean](https://googlefonts.github.io/korean/)
+* [Google Fonts Chinese](https://googlefonts.github.io/chinese/)
+* [Google Fonts](https://fonts.google.com/)
+* [Adobe Fonts](https://fonts.adobe.com/) 
+
+**CSS Resources**
+
+* [@fontface on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face) 
+* [@fontface on W3Schools](https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)
+* [CSS Fontstack](https://www.cssfontstack.com/)

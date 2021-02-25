@@ -43,7 +43,7 @@ Text:
 
 
 ###Tutorials
-* Codecademy: [Learn CSS 2: The Box Model](https://www.codecademy.com/courses/learn-css/lessons/box-model-intro), [Learn CSS 3: Display and Positioning](https://www.codecademy.com/courses/learn-css/lessons/css-display-positioning) and [CSS Transitions](https://www.codecademy.com/learn/learn-css/modules/css-transitions)
+* Codecademy: [The Box Model](https://www.codecademy.com/courses/learn-css/lessons/box-model-intro), [Display and Positioning](https://www.codecademy.com/courses/learn-css/lessons/css-display-positioning) and [CSS Transitions](https://www.codecademy.com/learn/learn-css/modules/css-transitions)
 
 
 ###Reading

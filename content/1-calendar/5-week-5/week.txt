@@ -24,7 +24,6 @@ Text:
 * CSS Typeface Final Crit
 * Review plan for next week
 * Introduce [Project 2: Community Archive](/projects/community-archive)
-* In-class demo: Personalize Your Typography
 
 ## For Next Week
 
@@ -38,11 +37,11 @@ Text:
 * [CSS Typography Part 2](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc842106-39b1-4bb1-a803-acc300839a01)
 
 ### Tutorials
-* Codecademy: [Lesson: CSS Typography](https://www.codecademy.com/learn/learn-css/modules/learn-css-typography)
+* Codecademy: [CSS Typography](https://www.codecademy.com/learn/learn-css/modules/learn-css-typography) and [CSS Color](https://www.codecademy.com/courses/learn-css/lessons/color/exercises/what-is-color)
 
 ### Reading
 
-* Read [Tools for Cultural Production: Archiving Voice, Culture, and Community](/library/tools-cultural-production) by Omar Mohammad and post a comment/question and reply to one of your classmates posts in the [Moodle thread](https://moodle.cca.edu/mod/forum/discuss.php?d=34754).
+* Read [Tools for Cultural Production: Archiving Voice, Culture, and Community](/library/tools-cultural-production) by Omar Mohammad and post a comment/question for Shiraz, or respond to a classmate in the [Moodle thread](https://moodle.cca.edu/mod/forum/discuss.php?d=36737).
 * Explore the work of [Shiraz Abdullahi Gallab](https://shirazn.es/): [headgear](http://headgear.pw/)
 <div class="caption">Shiraz will visit us for a Zoom-based workshop next week! We’ll explore the role of language, narrative, and technology in a creative practice.
 </div>

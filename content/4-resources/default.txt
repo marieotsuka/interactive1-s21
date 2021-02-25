@@ -4,14 +4,19 @@ Title: Resources
 
 Text: 
 
+## In-class Recordings
+* [Importing Fonts, Basic overview](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0bb82db5-8eee-407c-b21c-acd90141507a)
+<div class="caption">Feburary 24 2021</div>
+* [Review: CSS Letter Forms, Hover](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ac6a900-7bc2-4a05-b232-acd201461f6d)
+<div class="caption">Feburary 17 2021</div>
+* [Introduction to :hover](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb417154-8e4d-4ddb-ab0e-accf0140bbbc)
+<div class="caption">Feburary 10 2021</div>
 
 ##Lectures
 * [Intro to WWW](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=242387eb-ab8e-43b6-88c2-acba002ab61c)
 <div class="caption">An overview of how the context of the internet</div>
 * [Jurriaan Schrofer](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aec62db-4c5a-4ca8-9d92-acbe01754cc0)
 <div class="caption">A lecture on modular designs by Jurriaan Schrofer</div>
-* [Introduction to :hover](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb417154-8e4d-4ddb-ab0e-accf0140bbbc)
-<div class="caption">Introduction to :hover (in-class demo)</div>
 
 ## HTML Demos
 * [Intro to HTML](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=643a5146-73f7-4293-b6c2-acba00429e30)

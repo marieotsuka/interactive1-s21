@@ -12,10 +12,9 @@ Meta:
 
 Text: 
 
-In this project, you will create a single-serve site as an events archive for a community you care about. You might document real past events for an existing organization; alternatively, you might define some ideal speculative events that may not have happened yet.
+In this project, you will create a single-serve site as an events or resource archive for a community you care about. You might document real records for an existing organization; alternatively, you might define some ideal speculative events that may not have happened yet.
  
-In this process, you will develop an expressive typographic identity system for your events archive. This system will play out in four different compositions within the page — each containing different content types.
-We will experiment with ways to activate the typography through the browser.
+In this process, you will develop an expressive typographic identity system for your events archive. This system will play out in several compositions within the page — each containing different content types. We will experiment with ways to activate the typography through the browser through interaction and motion.
 
 * How does the typography and interactive states express the theme of the events?
 * What information might be important to include for the community?
@@ -39,29 +38,28 @@ We will experiment with ways to activate the typography through the browser.
 
 ### Project
 
-**Project Kickoff: Weds Jan 27**
-Typographic Identity and Web Design
-
+**Project Kickoff: Weds February 24**
+Content Collection & Typography Explorations
 
 **Step 1: Due Weds March 3**
-First, let’s collect the content for your site. Whether you are researching real events, or creating speculative events, define the text for the following:
+First, let’s collect the content for your site. Whether you are researching real events, or creating speculative events, or existing resources define the text for the following:
 
 1. Landing section
 - This feels like the “cover” of your book — consider this section as an opening expressive graphic event
 
 2. Schedule
-- How might you design a list of events? What are some alternatives to time-based listing?
-- Document the details of 6 – 12 events related to your community.
-	- Each event must have: Date / time, Title, Description
-	- Include at least one other relevant meta data — think of how the information you’re presenting aligns with the content of your site
-- What is the appropriate hiearchy of information for these events?
+- How might you design a list of these records? 
+- Document the details of at least 6 records related to your community, each as its own "web poster".
+	- Each must have: Title, Description
+	- Events may include Date / time / location, Resources might inlude link / authors / last published date.
+	- Think critically about your meta data — think of how the information you’re presenting aligns with the content of your site
+- What is the appropriate hiearchy of information for these events? What is the default order?
 
 3. About 
-- What is the background information behind the community?
-
+- What is the background information behind the community and this website?
 
 Second, begin sketching out your typographic choices for the design of your site. Using the `/week-5/section2-sketch/` sketch demo in our [demos repository](https://github.com/marieotsuka/interactive1-s21-demos/tree/main/week-5/section2-sketch) as a basis, explore at least 3 different typographic directions for your website. In at least one sketch, use a self-hosted webfont using the @font-face rule.
-
+See [Personalize Your Typography](/projects/personalize-type) and the lectures assigned on Typography for details and resources on font distributors.
 
 ###Calendar
 
@@ -95,6 +93,3 @@ Due
 ### Relevant Readings
 * (link: /library/tools-cultural-production text: Tools for Cultural Production: Archiving Voice, Culture, and Community popup: yes), by Omar Mohammad
 
-### Reference
-
-* [CCA.gd](https://cca.gd/)
