@@ -47,7 +47,7 @@ First, let’s collect the content for your site. Whether you are researching re
 1. Landing section
 - This feels like the “cover” of your book — consider this section as an opening expressive graphic event
 
-2. Schedule
+2. Schedule / Listing
 - How might you design a list of these records? 
 - Document the details of at least 6 records related to your community, each as its own "web poster".
 	- Each must have: Title, Description
@@ -60,6 +60,20 @@ First, let’s collect the content for your site. Whether you are researching re
 
 Second, begin sketching out your typographic choices for the design of your site. Using the `/week-5/section2-sketch/` sketch demo in our [demos repository](https://github.com/marieotsuka/interactive1-s21-demos/tree/main/week-5/section2-sketch) as a basis, explore at least 3 different typographic directions for your website. In at least one sketch, use a self-hosted webfont using the @font-face rule.
 See [Personalize Your Typography](/projects/personalize-type) and the lectures assigned on Typography for details and resources on font distributors.
+
+
+**Step 2: Due Weds March 10**
+
+Refine your design approach based off of your feedback from class, and begin prototyping your website in HTML and CSS, focusing on your "Schedule / Listing" section. Pay careful attention to the way you structure the page. At this stage of the process, avoid using any special positining and instead use the flow of the site and CSS properties that keep elements in relation with each other.
+ * do *not* use `position: absolute` or `position: relative`
+ * try using other layout methods to determine the layout of your page (such as `display:inline`, flexbox, css grid), relying on the CSS Box Model to control the spacing around your elements. Stay organized in your code, and group together associated elements through nested divs — remember the box model review in class.
+
+
+**Step 3: Due Weds March 17**
+
+Refine your website prototype. As you refine the webpage, consider an interative process of organization and experimentation. When you feel that you have a solid foundation, start using css properties like `position` and `transform` to be more expressive with your layout. 
+* define your constants + variables in your design system
+* begin thinking about animation
 
 ###Calendar
 
@@ -74,7 +88,7 @@ Step 2: Prototype of Events section
 Step 1 Due
 
 Week 7
-Step 3: Refined events section, additional sections
+Step 3: Refine events section, additional sections
 Step 2 Due
 
 Week 8
@@ -92,4 +106,43 @@ Due
 
 ### Relevant Readings
 * (link: /library/tools-cultural-production text: Tools for Cultural Production: Archiving Voice, Culture, and Community popup: yes), by Omar Mohammad
+* (link: /library/internet-back-to-land text: The Internet’s Back-to-the-Land Movement popup: yes), by Becca Abbe
+* (link: /library/community-memory text: Community Memory popup: yes), by Bo Doub
+
+### Technical Referencess
+* [Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+## Reference
+
+### Community-based Listings
+* [CCA.gd](https://cca.gd/)
+* [Interference Archive](https://interferencearchive.org/category/exhibitions/)
+* [Collective Black People Movement](https://www.cbpm.org/files/BlackOrganizations.html)
+* [RISD Anti-Racism Coalition](https://risdarc.cargo.site/)
+* [Cyberfeminism Index](https://cyberfeminismindex.com/)
+* [Yale AIDS Memo­r­ial Pro­ject](http://yamp.org/)
+* [Modernity Coloniality](http://www.modernitycoloniality.com/)
+* [Takachizu](http://takachizu.org/)
+* [Happy Family Market](https://recipes.happyfamilymkt.com/)
+
+### Typographic Posters
+* [Stereotypography](https://eyeondesign.aiga.org/how-jihee-lee-breaks-down-the-cultural-boundaries-built-by-stereotypes/)
+* [The Strange Lab](https://eyeondesign.aiga.org/a-typographic-exercise-to-readdress-design-historys-gender-imbalance/)
+* [Separated/Separados](https://separated.site/)
+* [MGMT Gendered Pronouns](https://eyeondesign.aiga.org/mgmt-s-hypothetical-typographical-hack-on-gendered-pronouns/)
+* [Stay Sane Stay Safe](https://stay-sane-stay-safe.com/)
+
+### Moving Type
+* [5th Istanbul Design Biennial](https://empathyrevisited.iksv.org/en/index)
+* [Wattis Institute](https://wattis.org/index?alt=1)
+* [Dowse Art Museum](https://dowse.org.nz/)
+* [Rivers Institute](https://riversinstitute.org/)
+* [SF Symphony Identity](https://www.wearecollins.com/work/sf-symphony/)
+* [Lisbon Architecture Triennale Website](https://www.zak.group/projects/close-closer-website)
+* [CSM Degree Show](https://www.hoverstat.es/features/redo-undo)
+* [Scopeplus Festival](http://dariusou.work/scopeplus-festival-2017.html)
+* [Strelka Alumni Ball](https://alumniball.strelka.com/)
+* [The Moving Poster](http://www.themovingposter.com/)
+
 

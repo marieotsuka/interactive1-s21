@@ -1,0 +1,47 @@
+Title: Week 6
+
+----
+
+Order: 6
+
+----
+
+Topic: Text—Spot
+
+----
+
+Dates: 3/3
+
+----
+
+Doc: 
+
+----
+
+Text: 
+
+## In-Class
+* Review Survey feedback
+* Review Examples and introduce Step 2 for [Project 2: Community Archive](/projects/community-archive)
+* Remaining CSS Typeface reviews
+* Review work on Project 2 Step 1
+* Lecture + Zoom workshop with Shiraz Gallab
+
+## For Next Week
+
+### Project
+
+* [Project 2: Community Archive](/projects/community-archive), Step 2
+
+### Tutorials
+* Review: [Box Model](https://www.codecademy.com/learn/learn-css/modules/learn-css-box-model) 
+* [Layout with Flexbox](https://www.codecademy.com/learn/learn-css/modules/layout-with-flexbox)
+* [Learn CSS Grid](https://www.codecademy.com/learn/learn-css/modules/learn-css-grid)
+
+### Reading
+* Read [The Internet’s Back-to-the-Land Movement](/library/internet-back-to-land) by Becca Abbe and post a comment/question or respond to a classmate on Moodle.
+
+
+----
+
+Current: 0

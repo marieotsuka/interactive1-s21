@@ -1,0 +1,39 @@
+Title: Community Memory
+
+----
+
+Subtitle: Precedents In Social Media And Movements
+
+----
+
+Author-first: Bo
+
+----
+
+Author-last: Doub
+
+----
+
+Year: 2016
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link: (link: https://computerhistory.org/blog/community-memory-precedents-in-social-media-and-movements/ popup:yes)
+
+----
+
+Further-metadata: 
+
+----
+
+Text: (image: Community_Memory_Project,_1975_,_Computer_History_Museum,_Mountain_View,_California.jpg)
+
+Community Memory was the first public computer-based bulletin board, originally set up in 1973 at Leopold’s Records in Berkeley, California. 
+
+----
+
+Selected-image: 

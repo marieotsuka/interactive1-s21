@@ -1,0 +1,44 @@
+Title: Week 7
+
+----
+
+Order: 7
+
+----
+
+Topic: Community Communication
+
+----
+
+Dates: 3/10
+
+----
+
+Doc: 
+
+----
+
+Text: 
+
+## In-Class
+* Review Workshop experience
+* Reveiw any issues or questions
+* Crit progress on Project 2
+
+## For Next Week
+
+### Project
+
+* [Project 2: Community Archive](/projects/community-archive), Step 3
+
+### Tutorials
+* Review CSS Tutorials 
+* Lecture on [CSS Grid](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c47d303c-0469-46ca-bdc0-ace60167dcf6)
+
+### Reading
+* Read [Community Memory](/library/community-memory) by Bo Doub and post a comment/question or respond to a classmate on Moodle.
+
+
+----
+
+Current: 0
