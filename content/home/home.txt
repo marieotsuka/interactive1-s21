@@ -7,6 +7,7 @@ Links:
 * [Moodle Discussion](https://moodle.cca.edu/mod/forum/view.php?f=9174)
 * [Demos Repository](https://github.com/marieotsuka/interactive1-s21-demos)
 * [Lecture Recordings](https://ccarts.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0580d942-5586-4430-a553-acba00033657)
+* [Technical Reference Slides](https://drive.google.com/drive/folders/1mBMyzZQYmF7hanP_9KtRrViZyKuEqEvm?usp=sharing)
 * [Office Hours](https://docs.google.com/spreadsheets/d/1oeaE0FIspZzPnjccBqPXRsesNEiFkhOHEpj-z_hJV84/edit?usp=sharing)
 
 ----

@@ -1,0 +1,44 @@
+Title: Week 8
+
+----
+
+Order: 8
+
+----
+
+Topic: Constants and Variables
+
+----
+
+Dates: 3/17
+
+----
+
+Doc: 
+
+----
+
+Text: 
+
+## In-Class
+* Review Examples
+* Troubleshooting
+* Crit progress on Project 2
+
+## For Next Week
+
+### Project
+
+* [Project 2: Community Archive](/projects/community-archive), Step 4
+
+### Tutorials
+* Demo on [CSS Animations](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c952faa6-a01d-423e-b781-acee0003b1ae)
+* Optional: demo on [JavaScript](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=440a62e6-8e0e-412a-8df9-acec0035e10f)
+
+### Reading
+* Read [The Web’s Grain](/library/webs-grain) by Frank Chimero and post a comment/question or respond to a classmate on Moodle.
+
+
+----
+
+Current: 0

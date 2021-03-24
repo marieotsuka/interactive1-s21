@@ -75,6 +75,14 @@ Refine your website prototype. As you refine the webpage, consider an interative
 * define your constants + variables in your design system
 * begin thinking about animation
 
+
+**Step 4: Due Weds March 24**
+
+Incorporate some interactive components into your website. Continue to explore how to hone into your layout, typographic choices and details.
+* experiment with :hover, transition and / or animations in your design
+* focus on how all of your design choices, whether static or dynamic, enhance the concept of the website
+* consider an alternate layout of your listing as another page
+
 ###Calendar
 
 ```
@@ -144,5 +152,18 @@ Due
 * [Scopeplus Festival](http://dariusou.work/scopeplus-festival-2017.html)
 * [Strelka Alumni Ball](https://alumniball.strelka.com/)
 * [The Moving Poster](http://www.themovingposter.com/)
+
+### Layout examples
+* [Studio Spehr](http://photographic-works.studiospehr.com/)
+* [Skyler Brickley](http://skylerbrickley.com/archive-list#list-view)
+* [Zak Group](https://www.zak.group/projects)
+* [The Shelf](http://journal.theshelf.fr/library)
+* [Design Books](https://readymag.com/repponen/designbooks/books/)
+* [Torque Torque](http://torquetorque.net/)
+* [Sternberg Press](https://www.sternberg-press.com/)
+* [AUP](https://aup.e-flux.com/)
+* [Eevi Rutanen](https://www.eevirutanen.com/)
+* [Future Expansion](http://future-expansion.com/#img)
+* [Content Free](http://www.content-free.net/tags)
 
 
