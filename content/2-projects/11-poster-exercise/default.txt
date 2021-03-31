@@ -1,0 +1,50 @@
+Title: Poster Exercise
+
+----
+
+Project: 0
+
+----
+
+Text:
+
+This exercise is a “takehome test” to review the techniques covered so far in the semester. However, unlike traditional tests this is “open note” — you have access to all resources available to you, whether from class materials or via online research.
+
+The assignment is to recreate this poster by Joseph Müller-Brockmann in HTML & CSS.
+
+![Joseph Müller-Brockmann: Musica Viva Poster](/assets/images/poster.jpg "Joseph Müller-Brockmann: Musica Viva Poster")
+
+The text is here for you to copy-paste from.
+
+```
+végh-quartett
+musica viva
+
+paul hindemith
+alban berg
+béla bartók
+
+1. kammermusikabend der tonhalle-gessellschaft
+zürick donnerstag.den 30 okt. 1958,20,15 uhr
+kleiner tonhalle-saal
+
+paul hindemith	drittes streighquartett
+alban berg		lyrische suites
+béla bartøk		viertes streichquartett
+
+karten zu fr. 3.30.7.70
+vorverkauf tonhalle-kasse. hug jecklin kuoni
+dep, kasse oerlikon der schweiz kreditansktaff
+```
+
+## Additional Parameters
+- Keep in mind how you are grouping and nesting your content for alignement purposes
+- Poster should have a width of `850px` and a height of `1200px` *until the viewport is narrower*
+- On screens narrower than `850px`, the width should take up 80% of the browser width, while preserving the layout
+- Add an animation that changes the color of the blue squares to red when hovering over each square
+
+Try to keep your code as simple as possible. There is no one right way of completing this, however, it’s important to consider the organization of your code — keep in mind the DRY principle: `Don’t Repeate Yourself`.
+
+## Hints: Key CSS Properties
+- `mix-blend-mode`
+- `transform` 

@@ -83,6 +83,15 @@ Incorporate some interactive components into your website. Continue to explore h
 * focus on how all of your design choices, whether static or dynamic, enhance the concept of the website
 * consider an alternate layout of your listing as another page
 
+**Step 5: Due Weds March 31**
+
+Refine and finalize your website
+* You must have a *live link* to share with the class
+* Pay careful attention to your craft
+* Tailor the content and experience to your intended audience
+* Refine the “pacing” of the site: consider the beginning, middle, and end
+* Consider responsiveness and how it adapts to different screen sizes
+
 ###Calendar
 
 ```

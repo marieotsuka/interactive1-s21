@@ -1,0 +1,46 @@
+Title: Extend your Class Site
+
+----
+
+Project: 0
+
+----
+
+Text:
+
+Your class site should now have a good amount of content: an introduction about yourself, and links to all of your work completed so far in class. Spend this week working on the design and layout of your class website.
+
+## Content requirements:
+- Your name
+- A description
+- An embedded image
+- Links to all exercises
+- Links to all projects
+- A link to your Codecademy achievements
+	(Log into your Codecademy account, go to *Profile*, then click *Badges*.)
+	`https://www.codecademy.com/users/board123/achievements`
+
+```
+Projects
+ - P1 CSS Typeface
+ - P2 Community Archive
+ - (P3 TBA)
+
+Exercises
+- Collective Alphabet
+- Figma Sketches for Project 1
+- Inspector Exercise Screenshot
+- CSS Still Life with :hover state
+- Poster exercise
+```
+
+(Refer to the [Projects](/projects/) for details on each)
+
+## Design and Technical requirements:
+- Add a favicon
+- Add a [custom typeface](/projects/personalize-type)
+- Make it responsive with `media query`
+- Your design should highlight the links to your projects and exercises, with an emphasis on the projects.
+- You may want to clean up the structure of your code, including how you are setting up your classes and nested HTML.
+- Experiment with CSS form-making techniques, such as CSS transforms, backgrounds, grid/flexbox and positioning
+

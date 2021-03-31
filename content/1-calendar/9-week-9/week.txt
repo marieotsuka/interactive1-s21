@@ -1,0 +1,44 @@
+Title: Week 9
+
+----
+
+Order: 9
+
+----
+
+Topic: Responsive Web
+
+----
+
+Dates: 3/24
+
+----
+
+Doc: 
+
+----
+
+Text: 
+
+## In-Class
+* Favicon Demo
+* Media Query Demo
+* 5Es of Experience Design
+* Crit Project 2
+
+## For Next Week
+
+### Project
+
+* [Project 2: Community Archive](/projects/community-archive), Finalize
+
+### Tutorials
+* Review previous tutorials
+
+### Reading
+* Catch up on previous readings
+
+
+----
+
+Current: 0
