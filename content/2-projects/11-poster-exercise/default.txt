@@ -39,8 +39,8 @@ dep, kasse oerlikon der schweiz kreditansktaff
 
 ## Additional Parameters
 - Keep in mind how you are grouping and nesting your content for alignement purposes
-- Poster should have a width of `850px` and a height of `1200px` *until the viewport is narrower*
-- On screens narrower than `850px`, the width should take up 80% of the browser width, while preserving the layout
+- Poster should have a maximum width of `850px` and a height of `1200px` *until the viewport is narrower*
+- On screens narrower than `850px`, the width should take up 80% of the browser width. Consider how the layout / elements adjust to a narrower screen — for example, would the number of squares be reduced? Would the text layout be simplified to a single column?
 - Add an animation that changes the color of the blue squares to red when hovering over each square
 
 Try to keep your code as simple as possible. There is no one right way of completing this, however, it’s important to consider the organization of your code — keep in mind the DRY principle: `Don’t Repeate Yourself`.
