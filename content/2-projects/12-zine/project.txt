@@ -65,7 +65,7 @@ Final due
 Select your content – an existing text – and consider how it could be reconfigured for alternate readings. How does a non-linear, branching, and/or looping structure, reshape a narrative to create different emotional and intellectual impacts on the reader? How does the web format inherently enable this sort of narrative via hyperlinks?
 
 * **Content:** Collect and format your reading(s) as a plain text file (.txt file, removing all formatting, etc. from the source material). Consolidate your images, and optimize them for the web — make sure that they are sized appropriately.
-* **Sitemap:** Sketch out a site map that indicate a way to structure your site architecture, and how a visitor might navigate through it.
+* **Sitemap:** Sketch out a [site map](https://www.figma.com/file/JfuKtSCnK59MfJU8iMCw3K/hamamoto_chris-wireframe?node-id=0%3A1) that indicate a way to structure your site architecture, and how a visitor might navigate through it.
 * **Design:** Using Figma / other prototyping tool, design three different approaches to the design of the *homepage* and *another sample page* from your site.
 
 **Step 2: Due 4/21**
