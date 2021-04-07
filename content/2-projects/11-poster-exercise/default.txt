@@ -43,7 +43,7 @@ dep, kasse oerlikon der schweiz kreditansktaff
 - On screens narrower than `850px`, the width should take up 80% of the browser width. Consider how the layout / elements adjust to a narrower screen — for example, would the number of squares be reduced? Would the text layout be simplified to a single column?
 - Add an animation that changes the color of the blue squares to red when hovering over each square
 
-Try to keep your code as simple as possible. There is no one right way of completing this, however, it’s important to consider the organization of your code — keep in mind the DRY principle: `Don’t Repeate Yourself`.
+Try to keep your code as simple and organized as possible. There is no one right way of completing this, however, it’s important to consider the organization of your code — keep in mind the DRY principle: `Don’t Repeat Yourself` — and use resuable classes whenever possible, taking advantage of the inheritance/cascade of CSS.
 
 ## Hints: Key CSS Properties
 - `mix-blend-mode`

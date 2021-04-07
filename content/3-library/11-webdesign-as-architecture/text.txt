@@ -1,0 +1,39 @@
+Title: Web Design as Architecture
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: Malte
+
+----
+
+Author-last: Müller
+
+----
+
+Year: 2019
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link: (link: http://www--arc.com/ popup:yes)
+
+----
+
+Further-metadata: 
+
+----
+
+Text: 
+
+Websites are places. They provide services and social environments. 
+
+----
+
+Selected-image: 

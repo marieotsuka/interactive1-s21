@@ -1,0 +1,116 @@
+Title: P3 Zine
+
+----
+
+Project: 1
+
+----
+
+Text:
+
+Our final project will combine your skills in HTML and CSS to create an online publication / zine. Our first project focused on individual letters and the form-making capabilities of CSS; our second focused on the organization of words into modular components; our third project will combine these techniques and focus on the development and structure of a multi-page website as a world-building exercise.
+
+A zine is “a noncommercial often homemade or online publication usually devoted to specialized and often unconventional subject matter” ([source](https://www.merriam-webster.com/dictionary/zine)). We will republish a piece of longform text as part of this project. The text you choose to republish is up to you; if you’d like, you can select readings you enjoyed from our Library as a start. You may take a singular text and divide it into multiple pages, or you might combine several different texts. Think about how this interactive publication reflects your editorial vision. How are you creating a “world” through this reading experience?
+
+Consider how you might annotate this text, extract pull quotes, or provide footnotes; how you might use imagery and CSS shapes to emphasize / illustrate parts of the text; how one text leads to another. What layers of experience can you add by republishing this text online?
+
+### Learning Outcomes
+- Learn how to plan the information architecture of a site and draft a sitemap
+- Understand how to plan and construct multi-page websites
+- Develop an editorial approach in the structure and navigation of a site
+- Consider the use of hyperlinks as a narrative tool
+- Carefully construct the relationship between images & words
+- Develop a robust typographic identity system, paying careful attention to typographic hierarchy and refinements
+- Learn the finer points of refined typography on the web
+- Gain a cursory understanding of Javascript
+
+### Requirements
+- Intentional use of hyperlinks as a narrative tool
+- Careful attention to typographic hierarchy and consistency
+- At least 5 different pages, including an “about” page and “homepage,” and at least 3 “article” pages.
+- Your website must be responsive, and work well on all platforms (desktop, tablet, mobile)
+- Your website must have a ‘night mode’ that changes its appearance when activated
+
+### Calendar
+
+```
+4/7
+Project Kickoff
+Collect content
+Construct sitemap
+Figma Designs
+
+4/14
+Refine designs
+Begin developing browser prototype
+
+4/21
+Complete all content population
+Site refinement
+Make responsive
+
+4/28
+Refine prototype
+Refine responsive behaviour
+Add JavaScript
+
+5/5
+Final due
+
+```
+
+###Steps
+
+**Step 1: Due 4/14**
+Select your content – an existing text – and consider how it could be reconfigured for alternate readings. How does a non-linear, branching, and/or looping structure, reshape a narrative to create different emotional and intellectual impacts on the reader? How does the web format inherently enable this sort of narrative via hyperlinks?
+
+* **Content:** Collect and format your reading(s) as a plain text file (.txt file, removing all formatting, etc. from the source material). Consolidate your images, and optimize them for the web — make sure that they are sized appropriately.
+* **Sitemap:** Sketch out a site map that indicate a way to structure your site architecture, and how a visitor might navigate through it.
+* **Design:** Using Figma / other prototyping tool, design three different approaches to the design of the *homepage* and *another sample page* from your site.
+
+**Step 2: Due 4/21**
+Select one of your design directions, and begin coding your design in HTML + CSS. Your design should indicate typography, color, and layout – paying particular attention to how hyperlinks are woven into (or not) the text. Try to have 80% of your site coded and uploaded, and all pages should be linked to one another.
+
+**Step 3: Due 4/28**
+All of your content should be populated on your site. Refine your design and develop how the site design responds to different screen widths and platforms.
+
+**Step 4: Due 5/5**
+Using Javascript, add a ‘night mode’ feature to your website that alters its appearance and how your site is “read”. Can night mode function as something other than an alternative color palette and instead unlock new narrative potential? See how you might add other “toggle” effects based on adding / removing a class.
+
+Finish coding your site and present your final zine to the class. Be sure to have your zine uploaded to your site before the start of class.
+
+
+### Reference
+
+* [Tiger Dingsun: Reading Machines](https://tdingsun.github.io/reading-machines/)
+* [Web Safe 2k16](http://websafe2k16.com/)
+* [Kit Son Lee: Geocitis](https://kslxyz.github.io/Geocitis/)
+* [Ruben Pater: Untold Stories](http://www.untold-stories.net/)
+* [Gerrit Rietveld Academie: Wendy36](http://berlin.rietveldacademie.nl/wendy36/index.html)
+* [Jake Dow-Smith: Publish Something Online](https://publishsomething.online/)
+* [Christopher Hamamoto and Jon Sueda: On Publishing](https://onpublishing.page/)
+* [Content Free](http://www.content-free.net/tags)
+* [Kameelah Janan Rasheed](https://kameelahr.com/Ethos)
+* [Leviathan](https://leviathan-cycle.com/)
+* [Schemas of Uncertainty](http://schemasofuncertainty.com/)
+* [In Terms of Performance](http://intermsofperformance.site/)
+* [Illuminating Radioactivity](https://illuminating-radioactivity.com/)
+* [Canals of Amsterdam](https://canals-amsterdam.nl/)
+* [Emergence Magazine](https://emergencemagazine.org/)
+* [NYTimes Interactive](https://www.nytimes.com/interactive/2019/11/14/magazine/internet-future-dream.html)
+* [Avery Review](https://averyreview.com/)
+* [The Creative Independent](https://thecreativeindependent.com/)
+* [Rhizome](https://rhizome.org/download/)
+* [Real Life Mag](https://reallifemag.com/)
+* [t:mesheets magaz:ne](https://toggl.com/timesheets-magazine-london/)
+* [On Practices](https://onpractices.com/)
+* [Accessions](https://accessions.org/)
+* [J.R. Carpenter: Web para-site](http://luckysoap.com/butterflies/parasite.html)
+* [Olia Lialina: My boyfriend came back from the war.](http://www.teleportacia.org/war/)
+* [Olia Lialina: Summer](https://rhizome.org/editorial/2013/aug/8/olia-lialina-summer-2013/)
+
+### Text Sources
+[Our Readings](/library/)
+[Ubu Web](https://www.ubu.com/concept/index.html) i.e. [Richard Serra](https://www.ubu.com/concept/serra_verb.html)
+[Project Gutenberg](http://www.gutenberg.org/)
+[Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
