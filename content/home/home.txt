@@ -161,7 +161,6 @@ Remember:
 
 People:
 
-* [Leo Cantu](https://yungn4.github.io/interactive-foundations/)
 * [Steven Degalan](https://degalan.github.io/interactive-foundations/)
 * [Patricia Granados](https://misspattymih.github.io/interactive-foundations/)
 * [Weeland Huang](https://weeland.github.io/interactive-foundations/)

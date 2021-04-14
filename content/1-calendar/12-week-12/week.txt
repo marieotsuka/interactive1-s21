@@ -1,0 +1,45 @@
+Title: Week 12
+
+----
+
+Order: 12
+
+----
+
+Topic: Events
+
+----
+
+Dates: 4/14
+
+----
+
+Doc: 
+
+----
+
+Text: 
+
+## In-Class
+* Poster notes
+* Intro to Javascript and JQuery
+* [Dark Mode](/projects/dark-mode) Exercise
+* Review [Zine](/projects/zine) site maps and design directions in small groups
+
+## For Next Week
+
+###Project
+* Select one of your design directions, and begin coding your design in HTML + CSS. Your design should indicate typography, color, and layout – paying particular attention to how hyperlinks are woven into (or not) the text. Try to have 80% of your site coded and uploaded, and all pages should be linked to one another.
+
+###Tutorials
+* [Learn jQuery](https://www.codecademy.com/learn/learn-jquery)
+
+### Lectures
+* Review [in-class Demo files](https://github.com/marieotsuka/interactive1-s21-demos/tree/main/week-12) and recording
+
+###Reading
+* Read [Strategy Three: Bridging Conventions](/library/bridging-conventions) interview with Laurenz Brunner and post a comment/question and reply to one of your classmates posts in [Moodle](https://moodle.cca.edu/mod/forum/discuss.php?d=44429) channel
+
+----
+
+Current: 0

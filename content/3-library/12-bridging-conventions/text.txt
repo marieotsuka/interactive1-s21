@@ -1,0 +1,39 @@
+Title: Strategy Three: Bridging Conventions
+
+----
+
+Subtitle: Interview with Laurenz Brunner
+
+----
+
+Author-first:
+
+----
+
+Author-last: ECAL
+
+----
+
+Year: 2015
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link to article: (link: https://digital-strategies.ma-ad.ch/interview/interview-laurenz-brunner/ popup: yes)
+
+----
+
+Further-metadata: 
+
+----
+
+Text: (image: offprint.png) 
+
+Graphic design already is a faster executed medium. It also has a shorter lifespan. You don’t want a poster to be around for too long. It has a time specific or a location specific purpose. After the event has taken place or so on, you are quite happy for the poster to be torn down or a new poster to be hung up at the same place. In a way, web is an even faster progression of that. You can develop something with little budget and you can almost instantly publish it, if you have the tools available to code.
+
+----
+
+Selected-image: 

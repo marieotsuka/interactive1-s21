@@ -1,0 +1,67 @@
+Title: Dark Mode
+
+----
+
+Project: 0
+
+----
+
+Text:
+
+Responsive design takes into account the need for a design to adapt to different platforms and screensizes. With the introduction of “dark mode,” this has also expanded to responding to different light conditions. In the same way that operating systems are setting up color schemes for low-light conditions, websites are setting up alternate color ways.
+
+Through this exercise, we will use JavaScript & jQuery to create a switch that toggle between two modes of your class website.
+
+
+###Files
+
+* We'll use the [in-class-demo-darkmode](https://github.com/marieotsuka/interactive1-s21-demos/tree/main/week-12/in-class-demo-darkmode) files as a reference
+
+###Instructions
+
+1. Create and style a button that will serve as a dark mode trigger in the HTML of your page
+
+2. Setup your dark-mode styles in your CSS file, consider how CSS styles cascade through the webpage, and how you can write specific tags using a parent class. Try and be as efficient as possible by changing your page’s appearance based on a single class. 
+
+3. Add a jQuery script tag in the head of your document to load in the jQuery library
+
+```
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+```
+
+4. Create a new blank `script.js` file, and add a link to it under your jQuery script tag
+
+```
+  <script type="text/javascript" src="script.js"></script>
+```
+
+
+5. Connect your button to toggle the class for your darkmode settings. Your code may look something like this:
+
+```
+$(document).ready(function(){
+     $("#darkmode").click(function(){ $('body').toggleClass('darkmode');});
+});
+```
+
+6. Think about how you want your “darkmode” to function. Is it solely meant to help people read your page more easily in low-light conditions? Would you want to also soothe visitors with a calming gradient animation? Consider the potential of this visual toggle beyond what may be expected.
+
+
+
+###References
+
+* [iOS Dark Mode](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/dark-mode)
+* [Mac OS Dark Mode](https://support.apple.com/guide/mac-help/use-a-light-or-dark-appearance-mchl52e1c2d2/mac)
+* [Android Dark Theme](https://developer.android.com/guide/topics/ui/look-and-feel/darktheme)
+* [Dark Mode Chrome Extension](https://chrome.google.com/webstore/detail/dark-mode/dmghijelimhndkbmpgbldicpogfkceaj?hl=en)
+* [A Friend is Writing](http://a-friend-is-writing.new-document.net/)
+* [Tall Buildings Symposium](https://molonglo.com/tallbuildings/#)
+* [Sandberg Open 2021](https://sandberg.nl/open2021-online/)
+* [aCCeSsions The Overview Effect](https://accessions.org/issue-2/)
+
+###Resources
+
+* [JQuery Get Started](https://www.w3schools.com/jquery/jquery_get_started.asp)
+* [JQuery Toggle Class](https://api.jquery.com/toggleclass/)
+* [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
+* [CSS Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
