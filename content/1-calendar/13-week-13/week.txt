@@ -6,7 +6,7 @@ Order: 13
 
 ----
 
-Topic: Events
+Topic: Digital Strategies
 
 ----
 
@@ -28,11 +28,11 @@ Text:
 
 ###Project
 * Populate your site with all of your content and complete the development. Refine your design and configure how the site design responds to different screen widths and platforms. Refer to the [Media Queries lecture](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=079d0fd5-fcb1-44e6-9410-acf4015b4ee7) in thinking through your strategy.
+* Post your live URL on [Moodle](https://moodle.cca.edu/mod/forum/discuss.php?d=45378)
 
 ### Lectures
 <p class="caption">Note: You may want to watch some of these at 1.5x speed.</p>
 * Review [Media Queries](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=079d0fd5-fcb1-44e6-9410-acf4015b4ee7)
-* Review [jQuery in-class demo](https://ccarts.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6d5afa1f-d442-46e5-a839-ad0a012d3161)
 
 ----
 
