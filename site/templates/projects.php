@@ -20,7 +20,7 @@
 
 
     <h1 id="ex-title">Exercises</h1>
-    <p>Some of the exeercises have to do with working on your class site itself. For others, you should have a link to the exercise results from your class website, listed below. 
+    <p>Some of the exercises have to do with working on your class site itself. For others, you should have a link to the exercise results from your class website, listed below. 
     </p>
     <ul>
       <li>Collective Alphabet</li>

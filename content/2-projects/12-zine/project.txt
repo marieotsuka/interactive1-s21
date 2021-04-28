@@ -75,7 +75,7 @@ Select one of your design directions, and begin coding your design in HTML + CSS
 All of your content should be populated on your site. Refine your design and develop how the site design responds to different screen widths and platforms.
 
 **Step 4: Due 5/5**
-Using Javascript, add a ‘night mode’ or alternate color-way feature to your website that alters its appearance and how your site is “read”. Can night mode function as something other than an alternative color palette and instead unlock new narrative potential? See how you might add other “toggle” effects based on adding / removing a class?
+Using Javascript, add a ‘night mode’ or alternate feature to your website that alters its appearance and how your site is “read”. Can night mode function as something other than an alternative color palette and instead unlock new narrative potential? See how you might add other “toggle” effects based on adding / removing a class.
 
 Finish coding your site and present your final zine to the class. Be sure to have your zine uploaded to your site before the start of class.
 
