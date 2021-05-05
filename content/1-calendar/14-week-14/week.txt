@@ -6,7 +6,7 @@ Order: 14
 
 ----
 
-Topic: Worldbuilding
+Topic: Finalize
 
 ----
 
@@ -21,18 +21,18 @@ Doc:
 Text: 
 
 ## In-Class
-* Q+A / Mobile Demo
+* Q+A / Mobile demo
 * [Class Site](https://interactive.htmlkitchen.net/projects/class-site-v2) Reminder
 * Small Group Meetings ([sign up here](https://docs.google.com/spreadsheets/d/1oeaE0FIspZzPnjccBqPXRsesNEiFkhOHEpj-z_hJV84/edit#gid=1104025258))
+* Leave comments for your classmates on [Moodle](https://moodle.cca.edu/mod/forum/discuss.php?d=45378)
 
 ## For Next Week
 
 ### Project
 
 * [Project 3: Zine](/projects/zine), Step 4
+* Finalize Class Site by Wednesday May 12. Check your links!
 
-### Reading
-* Read [Web Design as Architecture](/library/webdesign-as-architecture) by Malte Müller and post a comment/question or respond to a classmate on [Moodle](https://moodle.cca.edu/mod/forum/discuss.php?d=43359).
 
 ----
 
